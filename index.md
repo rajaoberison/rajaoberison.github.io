@@ -26,4 +26,4 @@ Skills include:
 
 * Web development: HTML, CSS, JAVASCRIPT, PYTHON (Django, Flask)
 
-* Data analysis and simulations: R
+* Data analysis and simulations: R, JAGS
