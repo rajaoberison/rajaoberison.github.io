@@ -32,6 +32,8 @@ Which requires the availability of these information:
 * Spatial data of property values (natural, public, and private capital)
 * Economic model of damages and cost of seawall construction
 
+<br/>
+
 -------------------
 #### 1. How many segments? <img align="right" width="188" height="282" src="https://rajaoberison.github.io/img/seawall2.png">
 Segments location and length depend on the scenario (defined by the expert) in the design of the seawall.
@@ -41,6 +43,8 @@ Two elevation values need to be identified in order to determine the segments:
 * Local storm surge level potential within the timeframe
 
 Then for each of the two elevation values, contour lines will be created and seawall segments are where they are the closest to each other (i.e. where the elevation gradient is highest and sea water split in two directions)
+
+<br/>
 
 ----------------------
 #### 2. What capitals are in harms’ way? <img align="right" width="212" height="282" src="https://rajaoberison.github.io/img/seawall3.png">
