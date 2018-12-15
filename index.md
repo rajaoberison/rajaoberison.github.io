@@ -12,11 +12,11 @@ I'm an apprentice developper interested in spatial analysis applied to coastal r
 
 Professional experience include:
 -------------------------------
-* **Student Volunteer, Map of Life, New Haven, United States, since September 2018**
+* Student Volunteer, Map of Life, New Haven, United States, since September 2018
 
-* **Mangrove Science Intern, World Wildlife Fund (WWF), Washington DC, United States, June – August 2018**
+* Mangrove Science Intern, World Wildlife Fund (WWF), Washington DC, United States, June – August 2018
 
-* **Field Coordinator, National Cooperative Business Association -Cooperative League of the United States of America (NCBA CLUSA), Sambava, Madagascar, July 2016 – July 2017**
+* Field Coordinator, National Cooperative Business Association -Cooperative League of the United States of America (NCBA CLUSA), Sambava, Madagascar, July 2016 – July 2017
 
 ----------------------
 
