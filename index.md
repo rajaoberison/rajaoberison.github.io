@@ -1,4 +1,4 @@
-<span style="color:blue"> I'm an apprentice developper interested in spatial analysis applied to coastal resilience, rural developpement, and landscape ecology </span>
+<span style="color:#01579B"> I'm an apprentice developper interested in spatial analysis applied to coastal resilience, rural developpement, and landscape ecology </span>
 ====================
 | (+1) 203 407 9773 | 195 prospect street, New Haven, CT 06511 | andry.rajaoberison@yale.edu | [LinkedIn](https://www.linkedin.com/in/rajaoberison) |
 |-------------------|:----------------------------------------:|:---------------------------:|-----------------------------------------------------:|
@@ -11,6 +11,8 @@
 * Recently supported remote sensing and GIS of mangroves with WWF in Indonesia and Madagascar. Supported the implementation of NCBA CLUSA program in Madagascar focused on the vanilla supply chain and direct procurement from farmers with a Fortune 1000 US-based company. Also supported baseline studies aimed at identifying communities’ needs and interventions for the most vulnerable populations in Madagascar.
 
 * Holds an Engineering degree in Agricultural Economics and is fluent in French, English, Malagasy, and Computer languages.
+
+--------------------------------
 
 Professional experience include:
 -------------------------------
