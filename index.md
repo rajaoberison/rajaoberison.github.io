@@ -11,7 +11,7 @@
 
 --------------------------------
 
-Professional experience include:
+Work experience include:
 -------------------------------
 * Student Volunteer, Map of Life, New Haven, United States, since September 2018
 
