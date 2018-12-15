@@ -2,7 +2,6 @@
 Welcome to my Github pages. I'm an MEM student at Yale FES, working on the application of machine learning in the landscape ecology and rural development. Visit some of my projects via the following links:
 
 * [SeaWall ToolBox](https://rajaoberison.github.io/SeaWallToolBox "SeaWallToolBox")
-* [Prediction of mangrove change](https://www.google.com "Google Earth Engine")
-* [Teny am Dezaka](https://www.google.com "Dezaka")
+* [Prediction of mangrove change](https://code.earthengine.google.com/ "Google Earth Engine")
 
 Please contact me if you wish to collaborate on something.
