@@ -1,4 +1,4 @@
-<span style="color:#01579B"> I'm an apprentice developper interested in spatial analysis applied to coastal resilience, rural developpement, and landscape ecology </span>
+I'm an apprentice developper interested in spatial analysis applied to coastal resilience, rural developpement, and landscape ecology.
 ====================
 | (+1) 203 407 9773 | 195 prospect street, New Haven, CT 06511 | andry.rajaoberison@yale.edu | [LinkedIn](https://www.linkedin.com/in/rajaoberison) |
 |-------------------|:----------------------------------------:|:---------------------------:|-----------------------------------------------------:|
