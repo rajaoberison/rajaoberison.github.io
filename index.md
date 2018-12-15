@@ -3,7 +3,7 @@
 <br>
 
 | (+1) 203 407 9773 | 195 prospect street, New Haven, CT 06511 | andry.rajaoberison@yale.edu | [LinkedIn](https://www.linkedin.com/in/rajaoberison) |
-|-------------------|:----------------------------------------:|:---------------------------:|-----------------------------------------------------:|
+|------------------:|:----------------------------------------:|:---------------------------:|:----------------------------------------------------:|
 
 ----------------------
 * Currently, I'm Pursuing a study in GIS software development and spatial data analysis at Yale University – School of Forestry & Environmental Studies.
