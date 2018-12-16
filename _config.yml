@@ -2,6 +2,8 @@
 # title: Hello, world!
 # base:
 #   background_color: transparent
+title_page:
+  background_image: https://github.com/rajaoberison/rajaoberison.github.io/blob/master/images/marojejy.JPG
 page:
   layout: portrait
   margin: [0.75in, 1in, 0.75in, 1in]
