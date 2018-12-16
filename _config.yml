@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Hello, world!
+base:
+  background_color: transparent
