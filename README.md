@@ -1,4 +1,4 @@
-## Hello, this is OUR CHALLENGE!
+## Hello, this is Andry Rajaoberison!
 Welcome to my Github page. I'm an MEM student at Yale FES, working on the application of machine learning in the landscape ecology and rural development. Visit some of my projects via the following links:
 
 * [SeaWall ToolBox](https://rajaoberison.github.io/SeaWallToolBox "SeaWallToolBox")
