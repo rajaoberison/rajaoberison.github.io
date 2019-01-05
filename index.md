@@ -1,6 +1,5 @@
 > ## I'm an apprentice developper interested in spatial analysis applied to coastal resilience, rural developpement, and landscape ecology, in developping countries.
 
-<br>
 
 (+1) 203 407 9773   |   195 prospect street, New Haven, CT 06511    |   andry.rajaoberison@yale.edu   |   [LinkedIn](https://www.linkedin.com/in/rajaoberison)
 
@@ -13,7 +12,7 @@
 Visit some of my projects via the following links:
 
 * [SeaWall ToolBox](https://rajaoberison.github.io/SeaWallToolBox "SeaWallToolBox")
-* [Prediction of mangrove change](https://code.earthengine.google.com/ "Google Earth Engine")
+* [Prediction of mangrove change](https://rajaoberison.github.io/LandcoverPrediction/ "Google Earth Engine")
 
 Please contact me if you wish to collaborate on something.
 
@@ -21,11 +20,11 @@ Please contact me if you wish to collaborate on something.
 
 Work experience include:
 -------------------------------
-* Student Volunteer, Map of Life, New Haven, United States, since September 2018
+* Spatial Data Inventory and Management, Map of Life, New Haven, United States, since September 2018
 
-* Mangrove Science Intern, World Wildlife Fund (WWF), Washington DC, United States, June – August 2018
+* Mangrove Science and Mapping, World Wildlife Fund (WWF), Washington DC, United States, June – August 2018
 
-* Field Coordinator, National Cooperative Business Association -Cooperative League of the United States of America (NCBA CLUSA), Sambava, Madagascar, July 2016 – July 2017
+* Field Coordination and Implementation, National Cooperative Business Association -Cooperative League of the United States of America (NCBA CLUSA), Sambava, Madagascar, July 2016 – July 2017
 
 ----------------------
 
