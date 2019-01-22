@@ -31,8 +31,8 @@ Work experience include:
 
 Skills include:
 --------------
-* Geospatial software development: ArcGIS Python, Google Earth Engine 
+* Geospatial software development: ArcGIS Python, Google Earth Engine
 
-* Web development: HTML, CSS, JAVASCRIPT, PYTHON (Django, Flask)
+* Web development: HTML, CSS, JavaScript (leaflet), PYTHON (Django, Flask), SQL
 
 * Data analysis and simulations: R, JAGS
