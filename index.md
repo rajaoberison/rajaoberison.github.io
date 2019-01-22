@@ -1,4 +1,3 @@
-## Andry Rajaoberison
 > ## I'm an apprentice developper interested in spatial analysis applied to coastal resilience, rural developpement, and landscape ecology, in developping countries.
 
 
