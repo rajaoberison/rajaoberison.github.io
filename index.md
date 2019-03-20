@@ -5,7 +5,7 @@
 
 ----------------------
 
-* Currently, I'm Pursuing a study in GIS software development and spatial data analysis at Yale University – School of Forestry & Environmental Studies.
+* Currently, I'm pursuing a study in GIS software development and spatial data analysis at Yale University – School of Forestry & Environmental Studies.
 
 * I'm experienced in ArcGIS, Google Earth Engine, and web development. And I'm fluent in French, English, Malagasy.
 
@@ -35,4 +35,4 @@ Skills include:
 
 * Web development: HTML, CSS, JavaScript (leaflet), PYTHON (Django, Flask), SQL
 
-* Data analysis and simulations: R, JAGS
+* Data exploration, analysis and simulations: R, JAGS
