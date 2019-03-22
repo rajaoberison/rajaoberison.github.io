@@ -15,7 +15,7 @@ Visit some of my projects via the following links:
 * [Prediction of mangrove change](https://rajaoberison.github.io/LandcoverPrediction/ "Google Earth Engine")
 * [Dezaka](https://dezaka.herokuapp.com/ "Dezaka (geodjango + leaflet web app)")
 
-Please contact me if you wish to collaborate on something. You can also check my writing samples on [Medium](https://medium.com/@rajaoberison)
+Please contact me if you wish to collaborate on something. You can also check my writing samples on [Medium](https://medium.com/@rajaoberison).
 
 ----------------------
 
