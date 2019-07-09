@@ -1,4 +1,4 @@
-> ## I'm an apprentice GIS programmer and Data scientist interested in spatial analysis applied to coastal resilience, rural development, and landscape ecology, in developing countries.
+> ### I'm an apprentice GIS programmer and Data scientist interested in spatial analysis applied to coastal resilience, rural development, and landscape ecology, in developing countries.
 
 
 (+1) 203 407 9773   |   195 prospect street, New Haven, CT 06511    |   andry.rajaoberison@yale.edu   |   [LinkedIn](https://www.linkedin.com/in/rajaoberison)  | [GitHub](https://github.com/rajaoberison)
@@ -33,4 +33,5 @@ Applying spatial analysis, data mining, and economic tools to facilitate the eco
 
 - Developing a geospatial tool for coastal flooding impacts assessment along the US east coast using ArcGIS's arcpy library, and currently exploring open-source software and web-based options;
 - Translating Excel economic models into an ArcGIS python script.
+
 ----------------------
