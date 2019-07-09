@@ -1,13 +1,14 @@
-> ## I'm an apprentice geospatial software developper interested in spatial analysis applied to coastal resilience, rural development, and landscape ecology, in developing countries.
+> ## I'm an apprentice GIS programmer and Data scientist interested in spatial analysis applied to coastal resilience, rural development, and landscape ecology, in developing countries.
 
 
 (+1) 203 407 9773   |   195 prospect street, New Haven, CT 06511    |   andry.rajaoberison@yale.edu   |   [LinkedIn](https://www.linkedin.com/in/rajaoberison)  | [GitHub](https://github.com/rajaoberison)
 
 ----------------------
 
-* Currently, I'm pursuing a study in GIS software development and spatial data analysis at Yale University – School of Forestry & Environmental Studies.
-
-* I'm experienced in ArcGIS, Google Earth Engine, and web development. And I'm fluent in French, English, Malagasy.
+**Skills:**
+- Spatial analysis and Remote Sensing: ArcGIS, QGIS, Earth Engine;
+- Data exploration and analysis: Python, R;
+- Web development: Leaflet, Django, SQL
 
 Visit some of my projects via the following links:
 
@@ -19,20 +20,17 @@ Please contact me if you wish to collaborate on something. You can also check my
 
 ----------------------
 
-Work experience include:
+Current projects:
 -------------------------------
-* Spatial Data Inventory and Management, Map of Life, New Haven, United States, since September 2018
+**Data Scientist, YPCCC**
+Applying data analysis, programming, and spatial analysis tools to support the analysis of social and geospatial data for climate change research and communication.
 
-* Mangrove Science and Mapping, World Wildlife Fund (WWF), Washington DC, United States, June – August 2018
+- Exploring hurricane survey data and engineering spatial features to study the factors affecting coastal resident's evacuation behaviors. Developed an ArcGIS toolbox that calculates the distance to coastlines of survey point data.
+- Developing a watershed delineation tool for lakes and collecting additional data for a global analysis of lakes' charcoal content.
 
-* Field Coordination and Implementation, National Cooperative Business Association -Cooperative League of the United States of America (NCBA CLUSA), Sambava, Madagascar, July 2016 – July 2017
+**GIS Programmer / Analyst, Yale FES**
+Applying spatial analysis, data mining, and economic tools to facilitate the economic assessment of coastal defense plan against storm surges along the US East Coast.
 
+- Developing a geospatial tool for coastal flooding impacts assessment along the US east coast using ArcGIS's arcpy library, and currently exploring open-source software and web-based options;
+- Translating Excel economic models into an ArcGIS python script.
 ----------------------
-
-Skills include:
---------------
-* Geospatial software development: ArcGIS Python, Google Earth Engine
-
-* Web development: HTML, CSS, JavaScript (leaflet), PYTHON (Django, Flask), SQL
-
-* Data exploration, analysis and simulations: R, JAGS
