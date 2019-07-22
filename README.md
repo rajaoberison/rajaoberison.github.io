@@ -3,7 +3,7 @@ Welcome to my Github page. I'm an MEM student at Yale FES, working on the applic
 
 * [SeaWall ToolBox](https://rajaoberison.github.io/SeaWallToolBox "SeaWallToolBox")
 * [Prediction of mangrove change](https://rajaoberison.github.io/LandcoverPrediction/ "Simulation of mangrove change")
-* [Dezaka](https://dezaka.herokuapp.com "Dezaka Web app")
+* [Dezaka](https://dezaka.herokuapp.com/existing/ "Dezaka Web app")
 
 Please contact me if you wish to collaborate on something.
 
