@@ -21,17 +21,17 @@
 ### GIS Programming & Remote sensing
 
 <a href="https://rajaoberison.github.io/LandcoverPrediction/">
-<figure>
-<figcaption>Seawall Toolbox</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
-</figure>
+    <figure>
+        <figcaption>Seawall Toolbox</figcaption>
+        <img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+    </figure>
 </a>
 
 <a href="https://rajaoberison.github.io/LandcoverPrediction/">
-<figure>
-<figcaption>Using Google Earth Engine to simulate land cover change</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
-</figure>
+    <figure>
+        <figcaption>Using Google Earth Engine to simulate land cover change</figcaption>
+        <img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+    </figure>
 </a>
 
 <a href="https://rajaoberison.github.io/LandcoverPrediction/">
