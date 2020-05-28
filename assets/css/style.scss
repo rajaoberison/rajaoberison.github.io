@@ -7,15 +7,16 @@ figure {
     border: thin #c0c0c0 solid;
     display: inline-flex;
     flex-flow: column;
-    padding: 1rem;
+    padding: .5rem;
     margin: auto;
-    border-radius: 1rem;
+    border-radius: .5rem;
+    width: 15%;
 }
 
 figcaption {
     background-color: #222;
     color: #fff;
     font: smaller sans-serif;
-    padding: 1rem;
+    padding: .5rem;
     text-align: center;
 }
