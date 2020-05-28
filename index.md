@@ -7,7 +7,7 @@
 
 ## Public Projects
 
-GIS Programming
+### GIS Programming
 <br/>
 
 <figure>
@@ -15,7 +15,7 @@ GIS Programming
 <figcaption>Seawall Toolbox</figcaption>
 </figure>
 
-Remote sensing
+### Remote sensing
 <br/>
 
 <figure>
@@ -23,7 +23,7 @@ Remote sensing
 <figcaption>Seawall Toolbox</figcaption>
 </figure>
 
-Data Wrangling and Visualization
+### Data Wrangling and Visualization
 <br/>
 
 <figure>
@@ -47,6 +47,8 @@ Data Wrangling and Visualization
 * [Dezaka](http://dezaka.rajaoberison.com/current-data.html)
 
 Please contact me if you wish to learn more about my private projects.
+
+------------------
 
 ## Skills & Tools
 
