@@ -22,42 +22,42 @@
 
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>Seawall Toolbox</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/swtbx.gif">
 </a></figure>
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>Using Google Earth Engine to simulate land cover change</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/landcoverpred.gif">
 </a></figure>
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
-<figcaption>Creating water basin from downloaded DEM</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<figcaption>Creating watershed of lakes from downloaded DEM</figcaption>
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/watershed.png">
 </a></figure>
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>Adding distance feature to point data</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/distance2coast.png">
 </a></figure>
 
 ### Data Wrangling and Visualization
 
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>Web application using D3.js + Flask</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/factsheets.png">
 </a></figure>
 <figure><a href="http://dezaka.rajaoberison.com/current-data.html" target="blank_">
 <figcaption>Web application using Leaflet.js</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/dezaka.png">
 </a></figure>
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>Web application using D3</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/coot.png">
 </a></figure>
 <figure><a href="http://edsy.rajaoberison.com" target="blank_">
 <figcaption>Data wrangling tutorials</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/edsy.png">
 </a></figure>
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>R package for managing SQL database</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/ypcccdb.png">
 </a></figure>
 
 ---
