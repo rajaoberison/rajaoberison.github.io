@@ -5,17 +5,17 @@
 
 figure {
     border: thin #c0c0c0 solid;
-    display: flex;
+    display: inline-flex;
     flex-flow: column;
-    padding: 5px;
-    max-width: 220px;
+    padding: 1rem;
     margin: auto;
+    border-radius: 1rem;
 }
 
 figcaption {
     background-color: #222;
     color: #fff;
-    font: italic smaller sans-serif;
-    padding: 3px;
+    font: smaller sans-serif;
+    padding: 1rem;
     text-align: center;
 }
