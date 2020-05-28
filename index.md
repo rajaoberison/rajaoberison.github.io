@@ -9,7 +9,6 @@
 - Softwares: ArcMap, ArcGIS Pro, ArcGIS Online, ESRI Story Maps, QGIS, ENVI, Tableau, MySQL Workbench, Excel, SPSS
 - Web Development: JavaScript (D3, Leaflet, React), Python (Flask, Django), SQL, RShiny
 - Data Science: R, Python (arcpy, numpy, pandas, geopandas), Machine Learning, Data Analysis, Data Visualization, Database Management, Remote Sensing (Earth Engine)
-- Coding & Scripting, Debugging & Troubleshooting, Testing & Documentation, Flood Risk Analysis, Project Management
 - Spoken Languages: Malagasy, English, French
 
 Here are some of my public projects:
