@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 figure {
-    border: thin #c0c0c0 solid;
+    border: thin #ddd solid;
     display: inline-flex;
     flex-flow: column;
     padding: .5rem;
@@ -17,7 +17,7 @@ figure:hover{
 }
 
 figcaption {
-    background-color: #222;
+    background-color: #34495E;
     color: #fff;
     font: smaller sans-serif;
     padding: .5rem;
