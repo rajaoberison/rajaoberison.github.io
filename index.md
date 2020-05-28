@@ -15,7 +15,7 @@ Here are some of my public projects:
 
 GIS Programming
 :-------------------------:|:-------------------------:
-![](rajaoberison.github.io/images/states/Alabama.png)  |  ![](rajaoberison.github.io/images/states/Alabama.png)
+![](https://rajaoberison.github.io/images/states/Alabama.png)  |  ![](https://rajaoberison.github.io/images/states/Alabama.png)
 
 
 * [Edsy](http://edsy.rajaoberison.com)
