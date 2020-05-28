@@ -2,10 +2,11 @@
 <div class="header-grid">
 
 <span class="header-desc">
+<h2>Andry Rajaoberison</h2>
 <strong>I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.</strong>
-<br>
+<br/><br/>
 (+1) 203 407 9773 | rajaoberison@gmail.com
-<br>
+<br/>
 <a href="https://twitter.com/Rajaoberison">Twitter</a> | <a href="https://github.com/rajaoberison">GitHub</a>
 </span>
 
@@ -76,3 +77,6 @@
 - Spoken Languages: Malagasy, English, French
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<script>
+    document.getElementsByTagName('h1')[0].remove();
+</script>
