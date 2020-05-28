@@ -11,15 +11,22 @@
 
 <div class="LI-profile-badge header-linkedin"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'>Andry Rajaoberison</a></div>
 
+</div>
+
 ---
 
 ## Sample Projects
 
-### GIS Programming
+### GIS Programming & Remote sensing
 
 <figure>
 <img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png" href="https://rajaoberison.github.io/LandcoverPrediction/">
 <figcaption>Seawall Toolbox</figcaption>
+</figure>
+
+<figure>
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png" href="https://rajaoberison.github.io/LandcoverPrediction/">
+<figcaption>Using Google Earth Engine to simulate land cover change</figcaption>
 </figure>
 
 <figure>
@@ -30,13 +37,6 @@
 <figure>
 <img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png" href="https://rajaoberison.github.io/LandcoverPrediction/">
 <figcaption>Adding distance feature to point data</figcaption>
-</figure>
-
-### Remote sensing
-
-<figure>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png" href="https://rajaoberison.github.io/LandcoverPrediction/">
-<figcaption>Using Google Earth Engine to simulate land cover change</figcaption>
 </figure>
 
 ### Data Wrangling and Visualization
