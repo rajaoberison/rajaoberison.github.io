@@ -13,7 +13,7 @@
 
 Here are some of my public projects:
 
-GIS Programming
+GIS Programming |
 :-------------------------:|:-------------------------:
 <img align="center" width="30%" src="https://rajaoberison.github.io/images/states/Iowa.png"> | <img align="center" width="30%" src="https://rajaoberison.github.io/images/states/Iowa.png">
 
