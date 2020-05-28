@@ -1,6 +1,6 @@
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'>Andry Rajaoberison</a></div>
 
-### I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.
+**I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.**
+<span class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'>Andry Rajaoberison</a></span>
 
 (+1) 203 407 9773 | 195 prospect street, New Haven, CT 06511 | andry.rajaoberison@yale.edu | [Twitter](https://twitter.com/Rajaoberison) | [GitHub](https://github.com/rajaoberison)
 
