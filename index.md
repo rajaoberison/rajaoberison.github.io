@@ -1,8 +1,21 @@
 
-**I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.**
-<span class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'>Andry Rajaoberison</a></span>
+<div class="header-grid">
 
-(+1) 203 407 9773 | 195 prospect street, New Haven, CT 06511 | andry.rajaoberison@yale.edu | [Twitter](https://twitter.com/Rajaoberison) | [GitHub](https://github.com/rajaoberison)
+<span class="header-desc">
+<strong>I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.</strong>
+
+(+1) 203 407 9773
+
+rajaoberison@gmail.com
+
+[Twitter](https://twitter.com/Rajaoberison)
+
+[GitHub](https://github.com/rajaoberison)
+</span>
+
+<div class="LI-profile-badge header-linkedin"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'>Andry Rajaoberison</a></div>
+
+</div>
 
 ---
 
@@ -40,7 +53,7 @@
 </figure>
 
 <figure>
-<img align="center" width="100%" src="http://dezaka.rajaoberison.com/current-data.html">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/states/Iowa.png" href="http://dezaka.rajaoberison.com/current-data.html">
 <figcaption>Web application using Leaflet.js</figcaption>
 </figure>
 

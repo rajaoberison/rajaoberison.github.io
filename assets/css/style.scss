@@ -3,22 +3,35 @@
 
 @import "{{ site.theme }}";
 
-figure {
-    border: thin #ddd solid;
-    display: inline-flex;
-    flex-flow: column;
-    padding: .5rem;
-    margin: auto;
-    border-radius: .5rem;
-    width: 15%;
+.header-grid {
+  display: grid;
+  align-content: center;
 }
-figure:hover{
-    cursor: pointer;
+.header-desc {
+  grid-column-start: 1;
+  grid-column-end: 1;
+}
+.header-linkedin {
+  grid-column-start: 2;
+  grid-column-end: 2;
+}
+
+figure {
+  border: thin #ddd solid;
+  display: inline-flex;
+  flex-flow: column;
+  padding: 0.5rem;
+  margin: auto;
+  border-radius: 0.5rem;
+  width: 15%;
+}
+figure:hover {
+  cursor: pointer;
 }
 
 figcaption {
-    color: #000;
-    font: smaller sans-serif;
-    padding: .5rem;
-    text-align: center;
+  color: #000;
+  font: smaller sans-serif;
+  padding: 0.5rem;
+  text-align: center;
 }
