@@ -1,5 +1,5 @@
 
-### I'm currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.
+### I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.
 
 (+1) 203 407 9773   |   195 prospect street, New Haven, CT 06511    |   andry.rajaoberison@yale.edu   |   [LinkedIn](https://www.linkedin.com/in/rajaoberison)  | [GitHub](https://github.com/rajaoberison)
 
