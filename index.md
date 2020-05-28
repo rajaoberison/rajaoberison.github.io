@@ -41,7 +41,7 @@
 
 <figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
 <figcaption>Web application using D3.js + Flask</figcaption>
-<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/factsheets.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/factsheets.gif">
 </a></figure>
 <figure><a href="http://dezaka.rajaoberison.com/current-data.html" target="blank_">
 <figcaption>Web application using Leaflet.js</figcaption>
