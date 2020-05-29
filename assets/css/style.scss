@@ -50,12 +50,7 @@ figcaption {
     1px 1px 0 #000;
   letter-spacing: 1px;
 }
-figcaption:hover,
-figcaption:active,
-figcaption:focus,
-img:hover,
-img:active,
-img:focus {
+figcaption:hover:active:visited {
   color: #00ffff;
   text-decoration: none;
 }
