@@ -37,7 +37,7 @@ figure:hover {
 }
 
 figcaption {
-  color: #333;
+  color: #f0ffff;
   font-size: 1rem;
   text-align: left;
   transform: translate(0%, 100%);
@@ -45,6 +45,18 @@ figcaption {
   margin-left: 1.5ch;
   font-weight: 900;
   text-transform: capitalize;
-  -webkit-text-stroke: 1px #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
   letter-spacing: 1px;
+}
+figcaption:hover,
+figcaption:active {
+  color: #00ffff;
+}
+
+.view-github {
+  position: fixed;
+  top: 5vh;
+  right: 30%;
+  color: #000;
 }
