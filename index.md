@@ -27,7 +27,7 @@
 <figcaption>Using Google Earth Engine to simulate land cover change</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/landcoverpred.gif">
 </a></figure>
-<figure><a href="https://github.com/rajaoberison/rajaoberison.github.io/blob/master/distance2coast.md" target="blank_">
+<figure><a href="https://github.com/rajaoberison/lakebasin-tbx/blob/master/README.md" target="blank_">
 <figcaption>Creating watershed of lakes from downloaded DEM</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/watershed.png">
 </a></figure>
