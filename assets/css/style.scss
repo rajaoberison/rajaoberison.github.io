@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
+
+body {
+  font-family: "IBM Plex Sans", sans-serif !important;
+}
 
 .header-grid {
   display: grid;
