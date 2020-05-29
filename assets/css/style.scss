@@ -51,8 +51,10 @@ figcaption {
   letter-spacing: 1px;
 }
 figcaption:hover,
-figcaption:active {
+figcaption:active,
+figcaption:focus {
   color: #00ffff;
+  text-decoration: none;
 }
 
 a.view-github {
@@ -69,6 +71,13 @@ a.view-github:hover {
 
 .LI-badge-container.horizontal.light {
   width: 250px !important;
+}
+.twitter {
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+.twitter:hover {
+  text-decoration: none;
 }
 
 @media (max-width: 400px) {

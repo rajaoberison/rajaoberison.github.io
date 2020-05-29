@@ -6,7 +6,7 @@
 <br/><br/>
 (+1) 203 407 9773 | rajaoberison@gmail.com
 <br/>
-<a href="https://twitter.com/Rajaoberison" target="blank_">Twitter<img align="center" height="20px" src="https://rajaoberison.github.io/images/Twitter_Logo_Blue.png"></a> | <a href="https://github.com/rajaoberison" target="blank_"><img align="center" height="20px" src="https://rajaoberison.github.io/images/GitHub_Logo.png"></a>
+<a class='twitter' href="https://twitter.com/Rajaoberison" target="blank_">Twitter<img align="center" height="20px" src="https://rajaoberison.github.io/images/Twitter_Logo_Blue.png"></a> | <a href="https://github.com/rajaoberison" target="blank_"><img align="center" height="20px" src="https://rajaoberison.github.io/images/GitHub_Logo.png"></a>
 </span>
 
 <div class="LI-profile-badge header-linkedin"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'  target="blank_">Andry Rajaoberison</a></div>
