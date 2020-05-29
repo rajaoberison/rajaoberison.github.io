@@ -19,6 +19,7 @@
 .header-linkedin {
   grid-column-start: 2;
   grid-column-end: 2;
+  margin: 0rem 0rem 0rem 1rem;
 }
 
 a {
@@ -64,4 +65,13 @@ a.view-github {
 a.view-github:hover {
   color: #000;
   text-decoration: none;
+}
+
+@media (max-width: 400px) {
+  .header-grid {
+    display: block;
+  }
+  figure {
+    width: 45%;
+  }
 }
