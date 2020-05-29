@@ -35,8 +35,6 @@ figure {
 }
 figure:hover {
   cursor: pointer;
-  color: #00ffff;
-  text-decoration: none;
 }
 
 figcaption {
@@ -52,6 +50,9 @@ figcaption {
     1px 1px 0 #000;
   letter-spacing: 1px;
 }
+figcaption:hover {
+  color: #00ffff;
+}
 
 a.view-github {
   position: fixed;
@@ -60,8 +61,7 @@ a.view-github {
   color: #000;
 }
 
-a.view-github:hover {
-  color: #000;
+a:hover {
   text-decoration: none;
 }
 
