@@ -38,7 +38,7 @@
 
 ### Data Wrangling and Visualization
 
-<figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
+<figure><a href="https://climatecommunication.yale.edu/visualizations-data/factsheets/" target="blank_">
 <figcaption>Web application using D3.js + Flask</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/factsheets.gif">
 </a></figure>
@@ -46,7 +46,7 @@
 <figcaption>Web application using Leaflet.js</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/dezaka.png">
 </a></figure>
-<figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
+<figure><a href="https://github.com/rajaoberison/rajaoberison.github.io/blob/master/coot.md" target="blank_">
 <figcaption>Web application using D3</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/coot.png">
 </a></figure>
@@ -54,7 +54,7 @@
 <figcaption>Data wrangling tutorials</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/edsy.png">
 </a></figure>
-<figure><a href="https://rajaoberison.github.io/LandcoverPrediction/" target="blank_">
+<figure><a href="https://github.com/rajaoberison/r-ypcccdb" target="blank_">
 <figcaption>R package for managing SQL database</figcaption>
 <img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/ypcccdb.png">
 </a></figure>
