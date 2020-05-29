@@ -1,13 +1,12 @@
-
 <div class="header-grid">
 
 <span class="header-desc">
 <h2>Andry Rajaoberison</h2>
 <strong>I am currently a Data science fellow with Yale Program on Climate Change Communicaton and a Geospatial analyst with the Connecticut Institute for Resilience and Climate Adaptation. I can help with data science, mapping, and web development projects.</strong>
 <br/><br/>
-(+1) 203 407 9773&#9;|&#9;rajaoberison@gmail.com
+(+1) 203 407 9773 | rajaoberison@gmail.com
 <br/>
-<a href="https://twitter.com/Rajaoberison" target="blank_">Twitter</a>&#9;&#9;&#9;&#9;&#9;|&#9;<a href="https://github.com/rajaoberison" target="blank_">GitHub</a>
+<a href="https://twitter.com/Rajaoberison" target="blank_">Twitter</a> | <a href="https://github.com/rajaoberison" target="blank_">GitHub</a>
 </span>
 
 <div class="LI-profile-badge header-linkedin"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajaoberison"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajaoberison?trk=profile-badge'  target="blank_">Andry Rajaoberison</a></div>
