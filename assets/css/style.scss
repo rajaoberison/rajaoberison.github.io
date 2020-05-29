@@ -67,6 +67,10 @@ a.view-github:hover {
   text-decoration: none;
 }
 
+.LI-badge-container.horizontal.light {
+  width: 250px !important;
+}
+
 @media (max-width: 400px) {
   .header-grid {
     display: block;
