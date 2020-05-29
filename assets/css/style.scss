@@ -50,9 +50,12 @@ figcaption {
     1px 1px 0 #000;
   letter-spacing: 1px;
 }
-figcaption:hover,
-figcaption:active,
-figcaption:focus {
+a figcaption:hover,
+a figcaption:active,
+a figcaption:focus,
+a img:hover,
+a img:active,
+a img:focus {
   color: #00ffff;
   text-decoration: none;
 }
