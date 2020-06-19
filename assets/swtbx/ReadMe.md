@@ -1,4 +1,6 @@
-# 
+<style>
+  h1 {display:none;}
+</style>
 
 <h2>Seawall Toolbox Downloads</h2>
 
