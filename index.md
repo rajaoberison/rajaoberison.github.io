@@ -2,7 +2,7 @@
 
 <span class="header-desc">
 <h2>Andry Rajaoberison</h2>
-<p>I am currently a Data science fellow with the <a href="https://climatecommunication.yale.edu/">Yale Program on Climate Change Communicaton</a> and a Geospatial analyst with the <a href="https://circa.uconn.edu/">Connecticut Institute for Resilience and Climate Adaptation</a>.<br>I can help with data science, mapping, and web development projects.</p>
+<p>I am currently a Geospatial consultant working for the Investment Centre division of the <a href="http://www.fao.org/investment-centre/en/">Food and Agriculture Organization of the United Nations</a>.<br>I can help with data science, mapping, and web development projects.</p>
 <br/>
 (+1) 203 407 9773 | rajaoberison@gmail.com
 <br/>
