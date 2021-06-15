@@ -2,7 +2,7 @@
 
 <span class="header-desc">
 <h2>Andry Rajaoberison</h2>
-<p>I am currently a Geospatial consultant working for the <a href="http://www.fao.org/investment-centre/en/" target="blank_">Investment Centre</a> division of the Food and Agriculture Organization (FAO) of the United Nations.<br>I can help with data science, mapping, and web development projects.</p>
+<p>I am currently a Geospatial consultant working for the <a href="http://www.fao.org/investment-centre/en/" target="blank_">Investment Centre</a> division of the Food and Agriculture Organization (FAO) of the United Nations.<br>I provide technical assistance to programmes in climate change, agriculture, and sustainable development.</p>
 <br/>
 (+1) 203 407 9773 | rajaoberison@gmail.com
 <br/>
@@ -63,9 +63,9 @@
 
 ## Skills & Tools
 
-- Softwares: ArcMap, ArcGIS Pro, ArcGIS Online, ESRI Story Maps, QGIS, ENVI, Tableau, MySQL Workbench, Excel, SPSS
-- Web Development: JavaScript (D3, Leaflet, React), Python (Flask, Django), SQL, RShiny
-- Data Science: R, Python (arcpy, numpy, pandas, geopandas), Machine Learning, Data Analysis, Data Visualization, Database Management, Remote Sensing (Earth Engine)
+- Softwares: ArcMap, ArcGIS Pro, ArcGIS Online, ESRI Story Maps, QGIS, ENVI, Tableau, Excel, SPSS, pgAdmin, MySQL Workbench, phpMyAdmin
+- Web Development: JavaScript (D3, Leaflet, React), Python (Flask, Django), RShiny
+- Data Science: R, Python, Predictive Analytics, Data Analysis, Data Visualization, Database Management, Remote Sensing (Google Earth Engine), SQL
 - Spoken Languages: Malagasy, English, French
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
