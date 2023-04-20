@@ -4,8 +4,6 @@
 <h2>Andry Rajaoberison</h2>
 <p>I am currently a Geospatial consultant working for the <a href="http://www.fao.org/investment-centre/en/" target="blank_">Investment Centre</a> division of the Food and Agriculture Organization (FAO) of the United Nations.<br>I provide technical assistance to programmes in climate change, agriculture, and sustainable development.</p>
 <br/>
-(+1) 203 407 9773 | rajaoberison@gmail.com
-<br/>
 <a class='twitter' href="https://twitter.com/Rajaoberison" target="blank_">Twitter<img align="center" height="20px" src="https://rajaoberison.github.io/images/Twitter_Logo_Blue.png"></a> | <a href="https://github.com/rajaoberison" target="blank_"><img align="center" height="20px" src="https://rajaoberison.github.io/images/GitHub_Logo.png"></a>
 </span>
 
