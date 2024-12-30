@@ -1,0 +1,4298 @@
+[
+  {
+    "2020": 26.026,
+    "2050": 41.174,
+    "Country": "Afghanistan",
+    "iso3cd": "AFG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 73.974,
+    "2050": 58.826,
+    "Country": "Afghanistan",
+    "iso3cd": "AFG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 36.88403448,
+    "2050": 53.95484537,
+    "Country": "Africa Eastern and Southern",
+    "iso3cd": "AFE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 63.11596552,
+    "2050": 46.04515463,
+    "Country": "Africa Eastern and Southern",
+    "iso3cd": "AFE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 47.93102096,
+    "2050": 64.05647126,
+    "Country": "Africa Western and Central",
+    "iso3cd": "AFW",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 52.06897904,
+    "2050": 35.94352874,
+    "Country": "Africa Western and Central",
+    "iso3cd": "AFW",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 62.112,
+    "2050": 78.213,
+    "Country": "Albania",
+    "iso3cd": "ALB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 37.888,
+    "2050": 21.787,
+    "Country": "Albania",
+    "iso3cd": "ALB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 73.733,
+    "2050": 84.496,
+    "Country": "Algeria",
+    "iso3cd": "DZA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 26.267,
+    "2050": 15.504,
+    "Country": "Algeria",
+    "iso3cd": "DZA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.153,
+    "2050": 90.767,
+    "Country": "American Samoa",
+    "iso3cd": "ASM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.847,
+    "2050": 9.233,
+    "Country": "American Samoa",
+    "iso3cd": "ASM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.916,
+    "2050": 90.239,
+    "Country": "Andorra",
+    "iso3cd": "AND",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.084,
+    "2050": 9.761,
+    "Country": "Andorra",
+    "iso3cd": "AND",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.825,
+    "2050": 80.388,
+    "Country": "Angola",
+    "iso3cd": "AGO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.175,
+    "2050": 19.612,
+    "Country": "Angola",
+    "iso3cd": "AGO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 24.433,
+    "2050": 30.984,
+    "Country": "Antigua and Barbuda",
+    "iso3cd": "ATG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 75.567,
+    "2050": 69.016,
+    "Country": "Antigua and Barbuda",
+    "iso3cd": "ATG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 58.49667413,
+    "2050": 69.88641637,
+    "Country": "Arab World",
+    "iso3cd": "ARB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 41.50332587,
+    "2050": 30.11358363,
+    "Country": "Arab World",
+    "iso3cd": "ARB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 92.111,
+    "2050": 95.176,
+    "Country": "Argentina",
+    "iso3cd": "ARG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 7.889,
+    "2050": 4.824,
+    "Country": "Argentina",
+    "iso3cd": "ARG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 63.313,
+    "2050": 74.253,
+    "Country": "Armenia",
+    "iso3cd": "ARM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 36.687,
+    "2050": 25.747,
+    "Country": "Armenia",
+    "iso3cd": "ARM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 43.697,
+    "2050": 54.613,
+    "Country": "Aruba",
+    "iso3cd": "ABW",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 56.303,
+    "2050": 45.387,
+    "Country": "Aruba",
+    "iso3cd": "ABW",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 86.241,
+    "2050": 90.958,
+    "Country": "Australia",
+    "iso3cd": "AUS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 13.759,
+    "2050": 9.042,
+    "Country": "Australia",
+    "iso3cd": "AUS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 58.748,
+    "2050": 70.898,
+    "Country": "Austria",
+    "iso3cd": "AUT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 41.252,
+    "2050": 29.102,
+    "Country": "Austria",
+    "iso3cd": "AUT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 56.397,
+    "2050": 70.953,
+    "Country": "Azerbaijan",
+    "iso3cd": "AZE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 43.603,
+    "2050": 29.047,
+    "Country": "Azerbaijan",
+    "iso3cd": "AZE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 83.245,
+    "2050": 88.429,
+    "Country": "Bahamas, The",
+    "iso3cd": "BHS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 16.755,
+    "2050": 11.571,
+    "Country": "Bahamas, The",
+    "iso3cd": "BHS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 89.506,
+    "2050": 93.202,
+    "Country": "Bahrain",
+    "iso3cd": "BHR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 10.494,
+    "2050": 6.798,
+    "Country": "Bahrain",
+    "iso3cd": "BHR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 38.177,
+    "2050": 58.356,
+    "Country": "Bangladesh",
+    "iso3cd": "BGD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 61.823,
+    "2050": 41.644,
+    "Country": "Bangladesh",
+    "iso3cd": "BGD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 31.191,
+    "2050": 40.818,
+    "Country": "Barbados",
+    "iso3cd": "BRB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 68.809,
+    "2050": 59.182,
+    "Country": "Barbados",
+    "iso3cd": "BRB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 79.483,
+    "2050": 88.28,
+    "Country": "Belarus",
+    "iso3cd": "BLR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 20.517,
+    "2050": 11.72,
+    "Country": "Belarus",
+    "iso3cd": "BLR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 98.079,
+    "2050": 98.887,
+    "Country": "Belgium",
+    "iso3cd": "BEL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 1.921,
+    "2050": 1.113,
+    "Country": "Belgium",
+    "iso3cd": "BEL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 46.025,
+    "2050": 57.077,
+    "Country": "Belize",
+    "iso3cd": "BLZ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 53.975,
+    "2050": 42.923,
+    "Country": "Belize",
+    "iso3cd": "BLZ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 48.415,
+    "2050": 65.446,
+    "Country": "Benin",
+    "iso3cd": "BEN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 51.585,
+    "2050": 34.554,
+    "Country": "Benin",
+    "iso3cd": "BEN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Bermuda",
+    "iso3cd": "BMU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Bermuda",
+    "iso3cd": "BMU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.316,
+    "2050": 57.661,
+    "Country": "Bhutan",
+    "iso3cd": "BTN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.684,
+    "2050": 42.339,
+    "Country": "Bhutan",
+    "iso3cd": "BTN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 70.123,
+    "2050": 80.76,
+    "Country": "Bolivia",
+    "iso3cd": "BOL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 29.877,
+    "2050": 19.24,
+    "Country": "Bolivia",
+    "iso3cd": "BOL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 49.02,
+    "2050": 64.614,
+    "Country": "Bosnia and Herzegovina",
+    "iso3cd": "BIH",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 50.98,
+    "2050": 35.386,
+    "Country": "Bosnia and Herzegovina",
+    "iso3cd": "BIH",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 70.877,
+    "2050": 83.905,
+    "Country": "Botswana",
+    "iso3cd": "BWA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 29.123,
+    "2050": 16.095,
+    "Country": "Botswana",
+    "iso3cd": "BWA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.073,
+    "2050": 92.426,
+    "Country": "Brazil",
+    "iso3cd": "BRA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.927,
+    "2050": 7.574,
+    "Country": "Brazil",
+    "iso3cd": "BRA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 48.515,
+    "2050": 61.375,
+    "Country": "British Virgin Islands",
+    "iso3cd": "VGB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 51.485,
+    "2050": 38.625,
+    "Country": "British Virgin Islands",
+    "iso3cd": "VGB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 78.25,
+    "2050": 85.675,
+    "Country": "Brunei Darussalam",
+    "iso3cd": "BRN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 21.75,
+    "2050": 14.325,
+    "Country": "Brunei Darussalam",
+    "iso3cd": "BRN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 75.686,
+    "2050": 84.927,
+    "Country": "Bulgaria",
+    "iso3cd": "BGR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 24.314,
+    "2050": 15.073,
+    "Country": "Bulgaria",
+    "iso3cd": "BGR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 30.607,
+    "2050": 50.171,
+    "Country": "Burkina Faso",
+    "iso3cd": "BFA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 69.393,
+    "2050": 49.829,
+    "Country": "Burkina Faso",
+    "iso3cd": "BFA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 13.708,
+    "2050": 27.881,
+    "Country": "Burundi",
+    "iso3cd": "BDI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 86.292,
+    "2050": 72.119,
+    "Country": "Burundi",
+    "iso3cd": "BDI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.652,
+    "2050": 77.459,
+    "Country": "Cabo Verde",
+    "iso3cd": "CPV",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.348,
+    "2050": 22.541,
+    "Country": "Cabo Verde",
+    "iso3cd": "CPV",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 24.232,
+    "2050": 41.153,
+    "Country": "Cambodia",
+    "iso3cd": "KHM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 75.768,
+    "2050": 58.847,
+    "Country": "Cambodia",
+    "iso3cd": "KHM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.56,
+    "2050": 73.098,
+    "Country": "Cameroon",
+    "iso3cd": "CMR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.44,
+    "2050": 26.902,
+    "Country": "Cameroon",
+    "iso3cd": "CMR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.562,
+    "2050": 87.286,
+    "Country": "Canada",
+    "iso3cd": "CAN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.438,
+    "2050": 12.714,
+    "Country": "Canada",
+    "iso3cd": "CAN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 46.38633827,
+    "2050": 55.40239747,
+    "Country": "Caribbean small states",
+    "iso3cd": "CSS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 53.61366173,
+    "2050": 44.59760253,
+    "Country": "Caribbean small states",
+    "iso3cd": "CSS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Cayman Islands",
+    "iso3cd": "CYM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Cayman Islands",
+    "iso3cd": "CYM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.198,
+    "2050": 60.213,
+    "Country": "Central African Republic",
+    "iso3cd": "CAF",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.802,
+    "2050": 39.787,
+    "Country": "Central African Republic",
+    "iso3cd": "CAF",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 62.56800515,
+    "2050": 73.20722365,
+    "Country": "Central Europe and the Baltics",
+    "iso3cd": "CEB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 37.43199485,
+    "2050": 26.79277635,
+    "Country": "Central Europe and the Baltics",
+    "iso3cd": "CEB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 23.52,
+    "2050": 39.303,
+    "Country": "Chad",
+    "iso3cd": "TCD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 76.48,
+    "2050": 60.697,
+    "Country": "Chad",
+    "iso3cd": "TCD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 30.963,
+    "2050": 39.359,
+    "Country": "Channel Islands",
+    "iso3cd": "CHI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 69.037,
+    "2050": 60.641,
+    "Country": "Channel Islands",
+    "iso3cd": "CHI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.727,
+    "2050": 91.842,
+    "Country": "Chile",
+    "iso3cd": "CHL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.273,
+    "2050": 8.158,
+    "Country": "Chile",
+    "iso3cd": "CHL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 61.428,
+    "2050": 80.028,
+    "Country": "China",
+    "iso3cd": "CHN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 38.572,
+    "2050": 19.972,
+    "Country": "China",
+    "iso3cd": "CHN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.425,
+    "2050": 88.847,
+    "Country": "Colombia",
+    "iso3cd": "COL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.575,
+    "2050": 11.153,
+    "Country": "Colombia",
+    "iso3cd": "COL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 29.38,
+    "2050": 40.954,
+    "Country": "Comoros",
+    "iso3cd": "COM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 70.62,
+    "2050": 59.046,
+    "Country": "Comoros",
+    "iso3cd": "COM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 45.638,
+    "2050": 63.794,
+    "Country": "Congo, Dem. Rep.",
+    "iso3cd": "COD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 54.362,
+    "2050": 36.206,
+    "Country": "Congo, Dem. Rep.",
+    "iso3cd": "COD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 67.829,
+    "2050": 79.998,
+    "Country": "Congo, Rep.",
+    "iso3cd": "COG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 32.171,
+    "2050": 20.002,
+    "Country": "Congo, Rep.",
+    "iso3cd": "COG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.771,
+    "2050": 90.14,
+    "Country": "Costa Rica",
+    "iso3cd": "CRI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.229,
+    "2050": 9.86,
+    "Country": "Costa Rica",
+    "iso3cd": "CRI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 51.706,
+    "2050": 67.436,
+    "Country": "Cote d'Ivoire",
+    "iso3cd": "CIV",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 48.294,
+    "2050": 32.564,
+    "Country": "Cote d'Ivoire",
+    "iso3cd": "CIV",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.553,
+    "2050": 71.31,
+    "Country": "Croatia",
+    "iso3cd": "HRV",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.447,
+    "2050": 28.69,
+    "Country": "Croatia",
+    "iso3cd": "HRV",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 77.194,
+    "2050": 84.093,
+    "Country": "Cuba",
+    "iso3cd": "CUB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 22.806,
+    "2050": 15.907,
+    "Country": "Cuba",
+    "iso3cd": "CUB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 89.062,
+    "2050": 91.878,
+    "Country": "Curacao",
+    "iso3cd": "CUW",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 10.938,
+    "2050": 8.122,
+    "Country": "Curacao",
+    "iso3cd": "CUW",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.821,
+    "2050": 74.472,
+    "Country": "Cyprus",
+    "iso3cd": "CYP",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.179,
+    "2050": 25.528,
+    "Country": "Cyprus",
+    "iso3cd": "CYP",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 74.061,
+    "2050": 82.178,
+    "Country": "Czechia",
+    "iso3cd": "CZE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 25.939,
+    "2050": 17.822,
+    "Country": "Czechia",
+    "iso3cd": "CZE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 88.116,
+    "2050": 92.319,
+    "Country": "Denmark",
+    "iso3cd": "DNK",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 11.884,
+    "2050": 7.681,
+    "Country": "Denmark",
+    "iso3cd": "DNK",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 78.062,
+    "2050": 84.692,
+    "Country": "Djibouti",
+    "iso3cd": "DJI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 21.938,
+    "2050": 15.308,
+    "Country": "Djibouti",
+    "iso3cd": "DJI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 71.09,
+    "2050": 80.006,
+    "Country": "Dominica",
+    "iso3cd": "DMA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 28.91,
+    "2050": 19.994,
+    "Country": "Dominica",
+    "iso3cd": "DMA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 82.54,
+    "2050": 92.04,
+    "Country": "Dominican Republic",
+    "iso3cd": "DOM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 17.46,
+    "2050": 7.96,
+    "Country": "Dominican Republic",
+    "iso3cd": "DOM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 45.78781493,
+    "2050": 60.50176902,
+    "Country": "Early-demographic dividend",
+    "iso3cd": "EAR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 54.21218507,
+    "2050": 39.49823098,
+    "Country": "Early-demographic dividend",
+    "iso3cd": "EAR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 60.68223452,
+    "2050": 75.99293757,
+    "Country": "East Asia & Pacific",
+    "iso3cd": "EAS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 39.31776548,
+    "2050": 24.00706243,
+    "Country": "East Asia & Pacific",
+    "iso3cd": "EAS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.48453968,
+    "2050": 74.27239755,
+    "Country": "East Asia & Pacific (excluding high income)",
+    "iso3cd": "EAP",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.51546032,
+    "2050": 25.72760245,
+    "Country": "East Asia & Pacific (excluding high income)",
+    "iso3cd": "EAP",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.42391143,
+    "2050": 74.27394639,
+    "Country": "East Asia & Pacific (IDA & IBRD countries)",
+    "iso3cd": "TEA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.57608857,
+    "2050": 25.72605361,
+    "Country": "East Asia & Pacific (IDA & IBRD countries)",
+    "iso3cd": "TEA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 64.166,
+    "2050": 74.772,
+    "Country": "Ecuador",
+    "iso3cd": "ECU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 35.834,
+    "2050": 25.228,
+    "Country": "Ecuador",
+    "iso3cd": "ECU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.783,
+    "2050": 55.608,
+    "Country": "Egypt, Arab Rep.",
+    "iso3cd": "EGY",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.217,
+    "2050": 44.392,
+    "Country": "Egypt, Arab Rep.",
+    "iso3cd": "EGY",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 73.444,
+    "2050": 85.517,
+    "Country": "El Salvador",
+    "iso3cd": "SLV",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 26.556,
+    "2050": 14.483,
+    "Country": "El Salvador",
+    "iso3cd": "SLV",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 73.1,
+    "2050": 82.803,
+    "Country": "Equatorial Guinea",
+    "iso3cd": "GNQ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 26.9,
+    "2050": 17.197,
+    "Country": "Equatorial Guinea",
+    "iso3cd": "GNQ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 41.347,
+    "2050": 60.129,
+    "Country": "Eritrea",
+    "iso3cd": "ERI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 58.653,
+    "2050": 39.871,
+    "Country": "Eritrea",
+    "iso3cd": "ERI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 69.229,
+    "2050": 77.329,
+    "Country": "Estonia",
+    "iso3cd": "EST",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 30.771,
+    "2050": 22.671,
+    "Country": "Estonia",
+    "iso3cd": "EST",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 24.171,
+    "2050": 33.783,
+    "Country": "Eswatini",
+    "iso3cd": "SWZ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 75.829,
+    "2050": 66.217,
+    "Country": "Eswatini",
+    "iso3cd": "SWZ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 21.695,
+    "2050": 39.051,
+    "Country": "Ethiopia",
+    "iso3cd": "ETH",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 78.305,
+    "2050": 60.949,
+    "Country": "Ethiopia",
+    "iso3cd": "ETH",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 77.23757611,
+    "2050": 85.30880036,
+    "Country": "Euro area",
+    "iso3cd": "EMU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 22.76242389,
+    "2050": 14.69119964,
+    "Country": "Euro area",
+    "iso3cd": "EMU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 72.5854745,
+    "2050": 80.93917087,
+    "Country": "Europe & Central Asia",
+    "iso3cd": "ECS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 27.4145255,
+    "2050": 19.06082913,
+    "Country": "Europe & Central Asia",
+    "iso3cd": "ECS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 63.76303634,
+    "2050": 72.89651597,
+    "Country": "Europe & Central Asia (excluding high income)",
+    "iso3cd": "ECA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 36.23696366,
+    "2050": 27.10348403,
+    "Country": "Europe & Central Asia (excluding high income)",
+    "iso3cd": "ECA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.63979294,
+    "2050": 75.7018133,
+    "Country": "Europe & Central Asia (IDA & IBRD countries)",
+    "iso3cd": "TEC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.36020706,
+    "2050": 24.2981867,
+    "Country": "Europe & Central Asia (IDA & IBRD countries)",
+    "iso3cd": "TEC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 74.96495687,
+    "2050": 83.65143109,
+    "Country": "European Union",
+    "iso3cd": "EUU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 25.03504313,
+    "2050": 16.34856891,
+    "Country": "European Union",
+    "iso3cd": "EUU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.398,
+    "2050": 52.692,
+    "Country": "Faroe Islands",
+    "iso3cd": "FRO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.602,
+    "2050": 47.308,
+    "Country": "Faroe Islands",
+    "iso3cd": "FRO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.247,
+    "2050": 69.894,
+    "Country": "Fiji",
+    "iso3cd": "FJI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.753,
+    "2050": 30.106,
+    "Country": "Fiji",
+    "iso3cd": "FJI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 85.517,
+    "2050": 90.045,
+    "Country": "Finland",
+    "iso3cd": "FIN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 14.483,
+    "2050": 9.955,
+    "Country": "Finland",
+    "iso3cd": "FIN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 43.639423,
+    "2050": 58.24546459,
+    "Country": "Fragile and conflict affected situations",
+    "iso3cd": "FCS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 56.360577,
+    "2050": 41.75453541,
+    "Country": "Fragile and conflict affected situations",
+    "iso3cd": "FCS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.975,
+    "2050": 88.337,
+    "Country": "France",
+    "iso3cd": "FRA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.025,
+    "2050": 11.663,
+    "Country": "France",
+    "iso3cd": "FRA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 61.975,
+    "2050": 69.898,
+    "Country": "French Polynesia",
+    "iso3cd": "PYF",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 38.025,
+    "2050": 30.102,
+    "Country": "French Polynesia",
+    "iso3cd": "PYF",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 90.092,
+    "2050": 94.974,
+    "Country": "Gabon",
+    "iso3cd": "GAB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 9.908,
+    "2050": 5.026,
+    "Country": "Gabon",
+    "iso3cd": "GAB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 62.582,
+    "2050": 77.229,
+    "Country": "Gambia, The",
+    "iso3cd": "GMB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 37.418,
+    "2050": 22.771,
+    "Country": "Gambia, The",
+    "iso3cd": "GMB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 59.453,
+    "2050": 73.153,
+    "Country": "Georgia",
+    "iso3cd": "GEO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 40.547,
+    "2050": 26.847,
+    "Country": "Georgia",
+    "iso3cd": "GEO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 77.453,
+    "2050": 84.335,
+    "Country": "Germany",
+    "iso3cd": "DEU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 22.547,
+    "2050": 15.665,
+    "Country": "Germany",
+    "iso3cd": "DEU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.349,
+    "2050": 73.178,
+    "Country": "Ghana",
+    "iso3cd": "GHA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.651,
+    "2050": 26.822,
+    "Country": "Ghana",
+    "iso3cd": "GHA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Gibraltar",
+    "iso3cd": "GIB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Gibraltar",
+    "iso3cd": "GIB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 79.715,
+    "2050": 87.693,
+    "Country": "Greece",
+    "iso3cd": "GRC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 20.285,
+    "2050": 12.307,
+    "Country": "Greece",
+    "iso3cd": "GRC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.282,
+    "2050": 92.127,
+    "Country": "Greenland",
+    "iso3cd": "GRL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.718,
+    "2050": 7.873,
+    "Country": "Greenland",
+    "iso3cd": "GRL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 36.537,
+    "2050": 47.276,
+    "Country": "Grenada",
+    "iso3cd": "GRD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 63.463,
+    "2050": 52.724,
+    "Country": "Grenada",
+    "iso3cd": "GRD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 94.938,
+    "2050": 96.816,
+    "Country": "Guam",
+    "iso3cd": "GUM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 5.062,
+    "2050": 3.184,
+    "Country": "Guam",
+    "iso3cd": "GUM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 51.836,
+    "2050": 67.195,
+    "Country": "Guatemala",
+    "iso3cd": "GTM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 48.164,
+    "2050": 32.805,
+    "Country": "Guatemala",
+    "iso3cd": "GTM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 36.875,
+    "2050": 53.628,
+    "Country": "Guinea",
+    "iso3cd": "GIN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 63.125,
+    "2050": 46.372,
+    "Country": "Guinea",
+    "iso3cd": "GIN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 44.196,
+    "2050": 57.232,
+    "Country": "Guinea-Bissau",
+    "iso3cd": "GNB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 55.804,
+    "2050": 42.768,
+    "Country": "Guinea-Bissau",
+    "iso3cd": "GNB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 26.786,
+    "2050": 35.952,
+    "Country": "Guyana",
+    "iso3cd": "GUY",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 73.214,
+    "2050": 64.048,
+    "Country": "Guyana",
+    "iso3cd": "GUY",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.088,
+    "2050": 74.925,
+    "Country": "Haiti",
+    "iso3cd": "HTI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.912,
+    "2050": 25.075,
+    "Country": "Haiti",
+    "iso3cd": "HTI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 37.04653897,
+    "2050": 53.86141057,
+    "Country": "Heavily indebted poor countries (HIPC)",
+    "iso3cd": "HPC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 62.95346103,
+    "2050": 46.13858943,
+    "Country": "Heavily indebted poor countries (HIPC)",
+    "iso3cd": "HPC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.53761216,
+    "2050": 87.56251558,
+    "Country": "High income",
+    "iso3cd": "HIC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.46238784,
+    "2050": 12.43748442,
+    "Country": "High income",
+    "iso3cd": "HIC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 58.359,
+    "2050": 73.916,
+    "Country": "Honduras",
+    "iso3cd": "HND",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 41.641,
+    "2050": 26.084,
+    "Country": "Honduras",
+    "iso3cd": "HND",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Hong Kong SAR, China",
+    "iso3cd": "HKG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Hong Kong SAR, China",
+    "iso3cd": "HKG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 71.942,
+    "2050": 81.825,
+    "Country": "Hungary",
+    "iso3cd": "HUN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 28.058,
+    "2050": 18.175,
+    "Country": "Hungary",
+    "iso3cd": "HUN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IBRD only",
+    "iso3cd": "IBD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IBRD only",
+    "iso3cd": "IBD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 93.898,
+    "2050": 95.821,
+    "Country": "Iceland",
+    "iso3cd": "ISL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 6.102,
+    "2050": 4.179,
+    "Country": "Iceland",
+    "iso3cd": "ISL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 51.33048498,
+    "2050": 64.84705933,
+    "Country": "IDA & IBRD total",
+    "iso3cd": "IBT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 48.66951502,
+    "2050": 35.15294067,
+    "Country": "IDA & IBRD total",
+    "iso3cd": "IBT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IDA blend",
+    "iso3cd": "IDB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IDA blend",
+    "iso3cd": "IDB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IDA only",
+    "iso3cd": "IDX",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IDA only",
+    "iso3cd": "IDX",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IDA total",
+    "iso3cd": "IDA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "IDA total",
+    "iso3cd": "IDA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 34.926,
+    "2050": 52.841,
+    "Country": "India",
+    "iso3cd": "IND",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 65.074,
+    "2050": 47.159,
+    "Country": "India",
+    "iso3cd": "IND",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 56.641,
+    "2050": 72.805,
+    "Country": "Indonesia",
+    "iso3cd": "IDN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 43.359,
+    "2050": 27.195,
+    "Country": "Indonesia",
+    "iso3cd": "IDN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 75.874,
+    "2050": 85.984,
+    "Country": "Iran, Islamic Rep.",
+    "iso3cd": "IRN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 24.126,
+    "2050": 14.016,
+    "Country": "Iran, Islamic Rep.",
+    "iso3cd": "IRN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 70.893,
+    "2050": 80.451,
+    "Country": "Iraq",
+    "iso3cd": "IRQ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 29.107,
+    "2050": 19.549,
+    "Country": "Iraq",
+    "iso3cd": "IRQ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 63.653,
+    "2050": 75.052,
+    "Country": "Ireland",
+    "iso3cd": "IRL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 36.347,
+    "2050": 24.948,
+    "Country": "Ireland",
+    "iso3cd": "IRL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 52.898,
+    "2050": 63.43,
+    "Country": "Isle of Man",
+    "iso3cd": "IMN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 47.102,
+    "2050": 36.57,
+    "Country": "Isle of Man",
+    "iso3cd": "IMN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 92.587,
+    "2050": 95.389,
+    "Country": "Israel",
+    "iso3cd": "ISR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 7.413,
+    "2050": 4.611,
+    "Country": "Israel",
+    "iso3cd": "ISR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 71.039,
+    "2050": 81.082,
+    "Country": "Italy",
+    "iso3cd": "ITA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 28.961,
+    "2050": 18.918,
+    "Country": "Italy",
+    "iso3cd": "ITA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 56.311,
+    "2050": 70.429,
+    "Country": "Jamaica",
+    "iso3cd": "JAM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 43.689,
+    "2050": 29.571,
+    "Country": "Jamaica",
+    "iso3cd": "JAM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 91.782,
+    "2050": 94.71,
+    "Country": "Japan",
+    "iso3cd": "JPN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 8.218,
+    "2050": 5.29,
+    "Country": "Japan",
+    "iso3cd": "JPN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 91.418,
+    "2050": 95.282,
+    "Country": "Jordan",
+    "iso3cd": "JOR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 8.582,
+    "2050": 4.718,
+    "Country": "Jordan",
+    "iso3cd": "JOR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.671,
+    "2050": 69.105,
+    "Country": "Kazakhstan",
+    "iso3cd": "KAZ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.329,
+    "2050": 30.895,
+    "Country": "Kazakhstan",
+    "iso3cd": "KAZ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 27.995,
+    "2050": 46.283,
+    "Country": "Kenya",
+    "iso3cd": "KEN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 72.005,
+    "2050": 53.717,
+    "Country": "Kenya",
+    "iso3cd": "KEN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 55.594,
+    "2050": 70.565,
+    "Country": "Kiribati",
+    "iso3cd": "KIR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 44.406,
+    "2050": 29.435,
+    "Country": "Kiribati",
+    "iso3cd": "KIR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 62.381,
+    "2050": 74.175,
+    "Country": "Korea, Dem. People's Rep.",
+    "iso3cd": "PRK",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 37.619,
+    "2050": 25.825,
+    "Country": "Korea, Dem. People's Rep.",
+    "iso3cd": "PRK",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.414,
+    "2050": 86.442,
+    "Country": "Korea, Rep.",
+    "iso3cd": "KOR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.586,
+    "2050": 13.558,
+    "Country": "Korea, Rep.",
+    "iso3cd": "KOR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "Kosovo",
+    "iso3cd": "XKX",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "Kosovo",
+    "iso3cd": "XKX",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Kuwait",
+    "iso3cd": "KWT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Kuwait",
+    "iso3cd": "KWT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 36.856,
+    "2050": 53.571,
+    "Country": "Kyrgyz Republic",
+    "iso3cd": "KGZ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 63.144,
+    "2050": 46.429,
+    "Country": "Kyrgyz Republic",
+    "iso3cd": "KGZ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 36.29,
+    "2050": 55.677,
+    "Country": "Lao PDR",
+    "iso3cd": "LAO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 63.71,
+    "2050": 44.323,
+    "Country": "Lao PDR",
+    "iso3cd": "LAO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 64.03231013,
+    "2050": 79.4777119,
+    "Country": "Late-demographic dividend",
+    "iso3cd": "LTE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 35.96768987,
+    "2050": 20.5222881,
+    "Country": "Late-demographic dividend",
+    "iso3cd": "LTE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.08779629,
+    "2050": 87.64781999,
+    "Country": "Latin America & Caribbean",
+    "iso3cd": "LCN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.91220371,
+    "2050": 12.35218001,
+    "Country": "Latin America & Caribbean",
+    "iso3cd": "LCN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.6312119,
+    "2050": 87.46157989,
+    "Country": "Latin America & Caribbean (excluding high income)",
+    "iso3cd": "LAC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.3687881,
+    "2050": 12.53842011,
+    "Country": "Latin America & Caribbean (excluding high income)",
+    "iso3cd": "LAC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.0901657,
+    "2050": 87.6673474,
+    "Country": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "iso3cd": "TLA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.9098343,
+    "2050": 12.3326526,
+    "Country": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "iso3cd": "TLA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 68.315,
+    "2050": 75.934,
+    "Country": "Latvia",
+    "iso3cd": "LVA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 31.685,
+    "2050": 24.066,
+    "Country": "Latvia",
+    "iso3cd": "LVA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 34.74886977,
+    "2050": 52.6984013,
+    "Country": "Least developed countries: UN classification",
+    "iso3cd": "LDC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 65.25113023,
+    "2050": 47.3015987,
+    "Country": "Least developed countries: UN classification",
+    "iso3cd": "LDC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 88.925,
+    "2050": 93.352,
+    "Country": "Lebanon",
+    "iso3cd": "LBN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 11.075,
+    "2050": 6.648,
+    "Country": "Lebanon",
+    "iso3cd": "LBN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 29.028,
+    "2050": 46.351,
+    "Country": "Lesotho",
+    "iso3cd": "LSO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 70.972,
+    "2050": 53.649,
+    "Country": "Lesotho",
+    "iso3cd": "LSO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 52.089,
+    "2050": 68.229,
+    "Country": "Liberia",
+    "iso3cd": "LBR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 47.911,
+    "2050": 31.771,
+    "Country": "Liberia",
+    "iso3cd": "LBR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.691,
+    "2050": 88.434,
+    "Country": "Libya",
+    "iso3cd": "LBY",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.309,
+    "2050": 11.566,
+    "Country": "Libya",
+    "iso3cd": "LBY",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 14.416,
+    "2050": 20.743,
+    "Country": "Liechtenstein",
+    "iso3cd": "LIE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 85.584,
+    "2050": 79.257,
+    "Country": "Liechtenstein",
+    "iso3cd": "LIE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 68.046,
+    "2050": 78.112,
+    "Country": "Lithuania",
+    "iso3cd": "LTU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 31.954,
+    "2050": 21.888,
+    "Country": "Lithuania",
+    "iso3cd": "LTU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 50.51701564,
+    "2050": 64.38221607,
+    "Country": "Low & middle income",
+    "iso3cd": "LMY",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 49.48298436,
+    "2050": 35.61778393,
+    "Country": "Low & middle income",
+    "iso3cd": "LMY",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 33.65500854,
+    "2050": 50.54855599,
+    "Country": "Low income",
+    "iso3cd": "LIC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 66.34499146,
+    "2050": 49.45144401,
+    "Country": "Low income",
+    "iso3cd": "LIC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 39.42856815,
+    "2050": 57.16049016,
+    "Country": "Lower middle income",
+    "iso3cd": "LMC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 60.57143185,
+    "2050": 42.83950984,
+    "Country": "Lower middle income",
+    "iso3cd": "LMC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 91.453,
+    "2050": 95.066,
+    "Country": "Luxembourg",
+    "iso3cd": "LUX",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 8.547,
+    "2050": 4.934,
+    "Country": "Luxembourg",
+    "iso3cd": "LUX",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Macao SAR, China",
+    "iso3cd": "MAC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Macao SAR, China",
+    "iso3cd": "MAC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 38.534,
+    "2050": 57.911,
+    "Country": "Madagascar",
+    "iso3cd": "MDG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 61.466,
+    "2050": 42.089,
+    "Country": "Madagascar",
+    "iso3cd": "MDG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 17.427,
+    "2050": 32.035,
+    "Country": "Malawi",
+    "iso3cd": "MWI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 82.573,
+    "2050": 67.965,
+    "Country": "Malawi",
+    "iso3cd": "MWI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 77.16,
+    "2050": 87.325,
+    "Country": "Malaysia",
+    "iso3cd": "MYS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 22.84,
+    "2050": 12.675,
+    "Country": "Malaysia",
+    "iso3cd": "MYS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 40.669,
+    "2050": 53.873,
+    "Country": "Maldives",
+    "iso3cd": "MDV",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 59.331,
+    "2050": 46.127,
+    "Country": "Maldives",
+    "iso3cd": "MDV",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 43.909,
+    "2050": 63.21,
+    "Country": "Mali",
+    "iso3cd": "MLI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 56.091,
+    "2050": 36.79,
+    "Country": "Mali",
+    "iso3cd": "MLI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 94.744,
+    "2050": 96.589,
+    "Country": "Malta",
+    "iso3cd": "MLT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 5.256,
+    "2050": 3.411,
+    "Country": "Malta",
+    "iso3cd": "MLT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 77.794,
+    "2050": 85.708,
+    "Country": "Marshall Islands",
+    "iso3cd": "MHL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 22.206,
+    "2050": 14.292,
+    "Country": "Marshall Islands",
+    "iso3cd": "MHL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 55.327,
+    "2050": 72.864,
+    "Country": "Mauritania",
+    "iso3cd": "MRT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 44.673,
+    "2050": 27.136,
+    "Country": "Mauritania",
+    "iso3cd": "MRT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 40.76,
+    "2050": 49.495,
+    "Country": "Mauritius",
+    "iso3cd": "MUS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 59.24,
+    "2050": 50.505,
+    "Country": "Mauritius",
+    "iso3cd": "MUS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.731,
+    "2050": 88.209,
+    "Country": "Mexico",
+    "iso3cd": "MEX",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.269,
+    "2050": 11.791,
+    "Country": "Mexico",
+    "iso3cd": "MEX",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 22.933,
+    "2050": 32.163,
+    "Country": "Micronesia, Fed. Sts.",
+    "iso3cd": "FSM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 77.067,
+    "2050": 67.837,
+    "Country": "Micronesia, Fed. Sts.",
+    "iso3cd": "FSM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 65.10713277,
+    "2050": 75.20000111,
+    "Country": "Middle East & North Africa",
+    "iso3cd": "MEA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 34.89286723,
+    "2050": 24.79999889,
+    "Country": "Middle East & North Africa",
+    "iso3cd": "MEA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 61.61697749,
+    "2050": 72.36446867,
+    "Country": "Middle East & North Africa (excluding high income)",
+    "iso3cd": "MNA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 38.38302251,
+    "2050": 27.63553133,
+    "Country": "Middle East & North Africa (excluding high income)",
+    "iso3cd": "MNA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 61.44161748,
+    "2050": 72.18752085,
+    "Country": "Middle East & North Africa (IDA & IBRD countries)",
+    "iso3cd": "TMN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 38.55838252,
+    "2050": 27.81247915,
+    "Country": "Middle East & North Africa (IDA & IBRD countries)",
+    "iso3cd": "TMN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 52.50748262,
+    "2050": 67.04162615,
+    "Country": "Middle income",
+    "iso3cd": "MIC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 47.49251738,
+    "2050": 32.95837385,
+    "Country": "Middle income",
+    "iso3cd": "MIC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.849,
+    "2050": 56.884,
+    "Country": "Moldova",
+    "iso3cd": "MDA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.151,
+    "2050": 43.116,
+    "Country": "Moldova",
+    "iso3cd": "MDA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Monaco",
+    "iso3cd": "MCO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Monaco",
+    "iso3cd": "MCO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 68.657,
+    "2050": 77.717,
+    "Country": "Mongolia",
+    "iso3cd": "MNG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 31.343,
+    "2050": 22.283,
+    "Country": "Mongolia",
+    "iso3cd": "MNG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 67.488,
+    "2050": 77.283,
+    "Country": "Montenegro",
+    "iso3cd": "MNE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 32.512,
+    "2050": 22.717,
+    "Country": "Montenegro",
+    "iso3cd": "MNE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 63.532,
+    "2050": 77.218,
+    "Country": "Morocco",
+    "iso3cd": "MAR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 36.468,
+    "2050": 22.782,
+    "Country": "Morocco",
+    "iso3cd": "MAR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 37.074,
+    "2050": 55.29,
+    "Country": "Mozambique",
+    "iso3cd": "MOZ",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 62.926,
+    "2050": 44.71,
+    "Country": "Mozambique",
+    "iso3cd": "MOZ",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 31.141,
+    "2050": 47.134,
+    "Country": "Myanmar",
+    "iso3cd": "MMR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 68.859,
+    "2050": 52.866,
+    "Country": "Myanmar",
+    "iso3cd": "MMR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 52.033,
+    "2050": 71.807,
+    "Country": "Namibia",
+    "iso3cd": "NAM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 47.967,
+    "2050": 28.193,
+    "Country": "Namibia",
+    "iso3cd": "NAM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Nauru",
+    "iso3cd": "NRU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Nauru",
+    "iso3cd": "NRU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 20.576,
+    "2050": 37.378,
+    "Country": "Nepal",
+    "iso3cd": "NPL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 79.424,
+    "2050": 62.622,
+    "Country": "Nepal",
+    "iso3cd": "NPL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 92.236,
+    "2050": 96.634,
+    "Country": "Netherlands",
+    "iso3cd": "NLD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 7.764,
+    "2050": 3.366,
+    "Country": "Netherlands",
+    "iso3cd": "NLD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 71.518,
+    "2050": 81.111,
+    "Country": "New Caledonia",
+    "iso3cd": "NCL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 28.482,
+    "2050": 18.889,
+    "Country": "New Caledonia",
+    "iso3cd": "NCL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 86.699,
+    "2050": 91.052,
+    "Country": "New Zealand",
+    "iso3cd": "NZL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 13.301,
+    "2050": 8.948,
+    "Country": "New Zealand",
+    "iso3cd": "NZL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 59.012,
+    "2050": 71.411,
+    "Country": "Nicaragua",
+    "iso3cd": "NIC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 40.988,
+    "2050": 28.589,
+    "Country": "Nicaragua",
+    "iso3cd": "NIC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 16.626,
+    "2050": 28.434,
+    "Country": "Niger",
+    "iso3cd": "NER",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 83.374,
+    "2050": 71.566,
+    "Country": "Niger",
+    "iso3cd": "NER",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 51.958,
+    "2050": 69.923,
+    "Country": "Nigeria",
+    "iso3cd": "NGA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 48.042,
+    "2050": 30.077,
+    "Country": "Nigeria",
+    "iso3cd": "NGA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 82.55363953,
+    "2050": 88.95146324,
+    "Country": "North America",
+    "iso3cd": "NAC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 17.44636047,
+    "2050": 11.04853676,
+    "Country": "North America",
+    "iso3cd": "NAC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 58.482,
+    "2050": 72.771,
+    "Country": "North Macedonia",
+    "iso3cd": "MKD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 41.518,
+    "2050": 27.229,
+    "Country": "North Macedonia",
+    "iso3cd": "MKD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 91.798,
+    "2050": 94.629,
+    "Country": "Northern Mariana Islands",
+    "iso3cd": "MNP",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 8.202,
+    "2050": 5.371,
+    "Country": "Northern Mariana Islands",
+    "iso3cd": "MNP",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 82.974,
+    "2050": 90.245,
+    "Country": "Norway",
+    "iso3cd": "NOR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 17.026,
+    "2050": 9.755,
+    "Country": "Norway",
+    "iso3cd": "NOR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "Not classified",
+    "iso3cd": "INX",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "Not classified",
+    "iso3cd": "INX",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.02784494,
+    "2050": 87.97828087,
+    "Country": "OECD members",
+    "iso3cd": "OED",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.97215506,
+    "2050": 12.02171913,
+    "Country": "OECD members",
+    "iso3cd": "OED",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 86.276,
+    "2050": 94.869,
+    "Country": "Oman",
+    "iso3cd": "OMN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 13.724,
+    "2050": 5.131,
+    "Country": "Oman",
+    "iso3cd": "OMN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 58.72486659,
+    "2050": 67.03432043,
+    "Country": "Other small states",
+    "iso3cd": "OSS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 41.27513341,
+    "2050": 32.96567957,
+    "Country": "Other small states",
+    "iso3cd": "OSS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 38.81851164,
+    "2050": 46.96990324,
+    "Country": "Pacific island small states",
+    "iso3cd": "PSS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 61.18148836,
+    "2050": 53.03009676,
+    "Country": "Pacific island small states",
+    "iso3cd": "PSS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 37.165,
+    "2050": 52.202,
+    "Country": "Pakistan",
+    "iso3cd": "PAK",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 62.835,
+    "2050": 47.798,
+    "Country": "Pakistan",
+    "iso3cd": "PAK",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.988,
+    "2050": 89.186,
+    "Country": "Palau",
+    "iso3cd": "PLW",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.012,
+    "2050": 10.814,
+    "Country": "Palau",
+    "iso3cd": "PLW",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 68.414,
+    "2050": 79.84,
+    "Country": "Panama",
+    "iso3cd": "PAN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 31.586,
+    "2050": 20.16,
+    "Country": "Panama",
+    "iso3cd": "PAN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 13.345,
+    "2050": 23.974,
+    "Country": "Papua New Guinea",
+    "iso3cd": "PNG",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 86.655,
+    "2050": 76.026,
+    "Country": "Papua New Guinea",
+    "iso3cd": "PNG",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 62.183,
+    "2050": 74.262,
+    "Country": "Paraguay",
+    "iso3cd": "PRY",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 37.817,
+    "2050": 25.738,
+    "Country": "Paraguay",
+    "iso3cd": "PRY",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 78.297,
+    "2050": 85.697,
+    "Country": "Peru",
+    "iso3cd": "PER",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 21.703,
+    "2050": 14.303,
+    "Country": "Peru",
+    "iso3cd": "PER",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 47.408,
+    "2050": 61.777,
+    "Country": "Philippines",
+    "iso3cd": "PHL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 52.592,
+    "2050": 38.223,
+    "Country": "Philippines",
+    "iso3cd": "PHL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 60.043,
+    "2050": 70.39,
+    "Country": "Poland",
+    "iso3cd": "POL",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 39.957,
+    "2050": 29.61,
+    "Country": "Poland",
+    "iso3cd": "POL",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.31,
+    "2050": 79.309,
+    "Country": "Portugal",
+    "iso3cd": "PRT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.69,
+    "2050": 20.691,
+    "Country": "Portugal",
+    "iso3cd": "PRT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 81.66077319,
+    "2050": 88.28459903,
+    "Country": "Post-demographic dividend",
+    "iso3cd": "PST",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 18.33922681,
+    "2050": 11.71540097,
+    "Country": "Post-demographic dividend",
+    "iso3cd": "PST",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.52664982,
+    "2050": 59.36479519,
+    "Country": "Pre-demographic dividend",
+    "iso3cd": "PRE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.47335018,
+    "2050": 40.63520481,
+    "Country": "Pre-demographic dividend",
+    "iso3cd": "PRE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 93.581,
+    "2050": 95.657,
+    "Country": "Puerto Rico",
+    "iso3cd": "PRI",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 6.419,
+    "2050": 4.343,
+    "Country": "Puerto Rico",
+    "iso3cd": "PRI",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 99.235,
+    "2050": 99.704,
+    "Country": "Qatar",
+    "iso3cd": "QAT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0.765,
+    "2050": 0.296,
+    "Country": "Qatar",
+    "iso3cd": "QAT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 54.194,
+    "2050": 66.672,
+    "Country": "Romania",
+    "iso3cd": "ROU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 45.806,
+    "2050": 33.328,
+    "Country": "Romania",
+    "iso3cd": "ROU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 74.754,
+    "2050": 83.33,
+    "Country": "Russian Federation",
+    "iso3cd": "RUS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 25.246,
+    "2050": 16.67,
+    "Country": "Russian Federation",
+    "iso3cd": "RUS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 17.432,
+    "2050": 29.624,
+    "Country": "Rwanda",
+    "iso3cd": "RWA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 82.568,
+    "2050": 70.376,
+    "Country": "Rwanda",
+    "iso3cd": "RWA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 17.889,
+    "2050": 21.516,
+    "Country": "Samoa",
+    "iso3cd": "WSM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 82.111,
+    "2050": 78.484,
+    "Country": "Samoa",
+    "iso3cd": "WSM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 97.499,
+    "2050": 98.967,
+    "Country": "San Marino",
+    "iso3cd": "SMR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 2.501,
+    "2050": 1.033,
+    "Country": "San Marino",
+    "iso3cd": "SMR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 74.354,
+    "2050": 85.255,
+    "Country": "Sao Tome and Principe",
+    "iso3cd": "STP",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 25.646,
+    "2050": 14.745,
+    "Country": "Sao Tome and Principe",
+    "iso3cd": "STP",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 84.287,
+    "2050": 90.35,
+    "Country": "Saudi Arabia",
+    "iso3cd": "SAU",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 15.713,
+    "2050": 9.65,
+    "Country": "Saudi Arabia",
+    "iso3cd": "SAU",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 48.122,
+    "2050": 64.479,
+    "Country": "Senegal",
+    "iso3cd": "SEN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 51.878,
+    "2050": 35.521,
+    "Country": "Senegal",
+    "iso3cd": "SEN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 56.446,
+    "2050": 68.772,
+    "Country": "Serbia",
+    "iso3cd": "SRB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 43.554,
+    "2050": 31.228,
+    "Country": "Serbia",
+    "iso3cd": "SRB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 57.546,
+    "2050": 69.59,
+    "Country": "Seychelles",
+    "iso3cd": "SYC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 42.454,
+    "2050": 30.41,
+    "Country": "Seychelles",
+    "iso3cd": "SYC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.923,
+    "2050": 59.55,
+    "Country": "Sierra Leone",
+    "iso3cd": "SLE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.077,
+    "2050": 40.45,
+    "Country": "Sierra Leone",
+    "iso3cd": "SLE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Singapore",
+    "iso3cd": "SGP",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Singapore",
+    "iso3cd": "SGP",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 100,
+    "2050": 100,
+    "Country": "Sint Maarten (Dutch part)",
+    "iso3cd": "SXM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 0,
+    "2050": 0,
+    "Country": "Sint Maarten (Dutch part)",
+    "iso3cd": "SXM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 53.76,
+    "2050": 65.676,
+    "Country": "Slovak Republic",
+    "iso3cd": "SVK",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 46.24,
+    "2050": 34.324,
+    "Country": "Slovak Republic",
+    "iso3cd": "SVK",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 55.118,
+    "2050": 68.753,
+    "Country": "Slovenia",
+    "iso3cd": "SVN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 44.882,
+    "2050": 31.247,
+    "Country": "Slovenia",
+    "iso3cd": "SVN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 54.13543573,
+    "2050": 62.31072108,
+    "Country": "Small states",
+    "iso3cd": "SST",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 45.86456427,
+    "2050": 37.68927892,
+    "Country": "Small states",
+    "iso3cd": "SST",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 24.67,
+    "2050": 37.316,
+    "Country": "Solomon Islands",
+    "iso3cd": "SLB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 75.33,
+    "2050": 62.684,
+    "Country": "Solomon Islands",
+    "iso3cd": "SLB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 46.141,
+    "2050": 63.778,
+    "Country": "Somalia",
+    "iso3cd": "SOM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 53.859,
+    "2050": 36.222,
+    "Country": "Somalia",
+    "iso3cd": "SOM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 67.354,
+    "2050": 79.798,
+    "Country": "South Africa",
+    "iso3cd": "ZAF",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 32.646,
+    "2050": 20.202,
+    "Country": "South Africa",
+    "iso3cd": "ZAF",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 34.90311034,
+    "2050": 52.43168536,
+    "Country": "South Asia",
+    "iso3cd": "SAS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 65.09688966,
+    "2050": 47.56831464,
+    "Country": "South Asia",
+    "iso3cd": "SAS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 34.90311034,
+    "2050": 52.43168536,
+    "Country": "South Asia (IDA & IBRD)",
+    "iso3cd": "TSA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 65.09688966,
+    "2050": 47.56831464,
+    "Country": "South Asia (IDA & IBRD)",
+    "iso3cd": "TSA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 20.199,
+    "2050": 35.999,
+    "Country": "South Sudan",
+    "iso3cd": "SSD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 79.801,
+    "2050": 64.001,
+    "Country": "South Sudan",
+    "iso3cd": "SSD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 80.81,
+    "2050": 88.013,
+    "Country": "Spain",
+    "iso3cd": "ESP",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 19.19,
+    "2050": 11.987,
+    "Country": "Spain",
+    "iso3cd": "ESP",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 18.713,
+    "2050": 31.621,
+    "Country": "Sri Lanka",
+    "iso3cd": "LKA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 81.287,
+    "2050": 68.379,
+    "Country": "Sri Lanka",
+    "iso3cd": "LKA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 30.843,
+    "2050": 40.325,
+    "Country": "St. Kitts and Nevis",
+    "iso3cd": "KNA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 69.157,
+    "2050": 59.675,
+    "Country": "St. Kitts and Nevis",
+    "iso3cd": "KNA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 18.841,
+    "2050": 26.642,
+    "Country": "St. Lucia",
+    "iso3cd": "LCA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 81.159,
+    "2050": 73.358,
+    "Country": "St. Lucia",
+    "iso3cd": "LCA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "St. Martin (French part)",
+    "iso3cd": "MAF",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": "..",
+    "2050": "..",
+    "Country": "St. Martin (French part)",
+    "iso3cd": "MAF",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 53.032,
+    "2050": 65.527,
+    "Country": "St. Vincent and the Grenadines",
+    "iso3cd": "VCT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 46.968,
+    "2050": 34.473,
+    "Country": "St. Vincent and the Grenadines",
+    "iso3cd": "VCT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 41.36862979,
+    "2050": 57.91819966,
+    "Country": "Sub-Saharan Africa",
+    "iso3cd": "SSF",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 58.63137021,
+    "2050": 42.08180034,
+    "Country": "Sub-Saharan Africa",
+    "iso3cd": "SSF",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 41.36726711,
+    "2050": 57.91749161,
+    "Country": "Sub-Saharan Africa (excluding high income)",
+    "iso3cd": "SSA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 58.63273289,
+    "2050": 42.08250839,
+    "Country": "Sub-Saharan Africa (excluding high income)",
+    "iso3cd": "SSA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 41.36862979,
+    "2050": 57.91819966,
+    "Country": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "iso3cd": "TSS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 58.63137021,
+    "2050": 42.08180034,
+    "Country": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "iso3cd": "TSS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 35.253,
+    "2050": 52.573,
+    "Country": "Sudan",
+    "iso3cd": "SDN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 64.747,
+    "2050": 47.427,
+    "Country": "Sudan",
+    "iso3cd": "SDN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.149,
+    "2050": 74.034,
+    "Country": "Suriname",
+    "iso3cd": "SUR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.851,
+    "2050": 25.966,
+    "Country": "Suriname",
+    "iso3cd": "SUR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.977,
+    "2050": 93.215,
+    "Country": "Sweden",
+    "iso3cd": "SWE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.023,
+    "2050": 6.785,
+    "Country": "Sweden",
+    "iso3cd": "SWE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 73.915,
+    "2050": 81.359,
+    "Country": "Switzerland",
+    "iso3cd": "CHE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 26.085,
+    "2050": 18.641,
+    "Country": "Switzerland",
+    "iso3cd": "CHE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 55.475,
+    "2050": 71.94,
+    "Country": "Syrian Arab Republic",
+    "iso3cd": "SYR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 44.525,
+    "2050": 28.06,
+    "Country": "Syrian Arab Republic",
+    "iso3cd": "SYR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 27.506,
+    "2050": 42.991,
+    "Country": "Tajikistan",
+    "iso3cd": "TJK",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 72.494,
+    "2050": 57.009,
+    "Country": "Tajikistan",
+    "iso3cd": "TJK",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 35.227,
+    "2050": 55.433,
+    "Country": "Tanzania",
+    "iso3cd": "TZA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 64.773,
+    "2050": 44.567,
+    "Country": "Tanzania",
+    "iso3cd": "TZA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 51.43,
+    "2050": 69.463,
+    "Country": "Thailand",
+    "iso3cd": "THA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 48.57,
+    "2050": 30.537,
+    "Country": "Thailand",
+    "iso3cd": "THA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 31.32,
+    "2050": 43.746,
+    "Country": "Timor-Leste",
+    "iso3cd": "TLS",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 68.68,
+    "2050": 56.254,
+    "Country": "Timor-Leste",
+    "iso3cd": "TLS",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 42.8,
+    "2050": 60.578,
+    "Country": "Togo",
+    "iso3cd": "TGO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 57.2,
+    "2050": 39.422,
+    "Country": "Togo",
+    "iso3cd": "TGO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 23.099,
+    "2050": 29.768,
+    "Country": "Tonga",
+    "iso3cd": "TON",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 76.901,
+    "2050": 70.232,
+    "Country": "Tonga",
+    "iso3cd": "TON",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 53.214,
+    "2050": 62.721,
+    "Country": "Trinidad and Tobago",
+    "iso3cd": "TTO",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 46.786,
+    "2050": 37.279,
+    "Country": "Trinidad and Tobago",
+    "iso3cd": "TTO",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 69.568,
+    "2050": 80.226,
+    "Country": "Tunisia",
+    "iso3cd": "TUN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 30.432,
+    "2050": 19.774,
+    "Country": "Tunisia",
+    "iso3cd": "TUN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 76.105,
+    "2050": 85.951,
+    "Country": "Turkiye",
+    "iso3cd": "TUR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 23.895,
+    "2050": 14.049,
+    "Country": "Turkiye",
+    "iso3cd": "TUR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 52.516,
+    "2050": 68.882,
+    "Country": "Turkmenistan",
+    "iso3cd": "TKM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 47.484,
+    "2050": 31.118,
+    "Country": "Turkmenistan",
+    "iso3cd": "TKM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 93.605,
+    "2050": 96.679,
+    "Country": "Turks and Caicos Islands",
+    "iso3cd": "TCA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 6.395,
+    "2050": 3.321,
+    "Country": "Turks and Caicos Islands",
+    "iso3cd": "TCA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 64.014,
+    "2050": 77.575,
+    "Country": "Tuvalu",
+    "iso3cd": "TUV",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 35.986,
+    "2050": 22.425,
+    "Country": "Tuvalu",
+    "iso3cd": "TUV",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 24.954,
+    "2050": 44.148,
+    "Country": "Uganda",
+    "iso3cd": "UGA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 75.046,
+    "2050": 55.852,
+    "Country": "Uganda",
+    "iso3cd": "UGA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 69.608,
+    "2050": 78.632,
+    "Country": "Ukraine",
+    "iso3cd": "UKR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 30.392,
+    "2050": 21.368,
+    "Country": "Ukraine",
+    "iso3cd": "UKR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 87.048,
+    "2050": 92.364,
+    "Country": "United Arab Emirates",
+    "iso3cd": "ARE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 12.952,
+    "2050": 7.636,
+    "Country": "United Arab Emirates",
+    "iso3cd": "ARE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 83.903,
+    "2050": 90.218,
+    "Country": "United Kingdom",
+    "iso3cd": "GBR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 16.097,
+    "2050": 9.782,
+    "Country": "United Kingdom",
+    "iso3cd": "GBR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 82.664,
+    "2050": 89.156,
+    "Country": "United States",
+    "iso3cd": "USA",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 17.336,
+    "2050": 10.844,
+    "Country": "United States",
+    "iso3cd": "USA",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 66.4112023,
+    "2050": 81.17742193,
+    "Country": "Upper middle income",
+    "iso3cd": "UMC",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 33.5887977,
+    "2050": 18.82257807,
+    "Country": "Upper middle income",
+    "iso3cd": "UMC",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 95.515,
+    "2050": 97.399,
+    "Country": "Uruguay",
+    "iso3cd": "URY",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 4.485,
+    "2050": 2.601,
+    "Country": "Uruguay",
+    "iso3cd": "URY",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 50.416,
+    "2050": 61.534,
+    "Country": "Uzbekistan",
+    "iso3cd": "UZB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 49.584,
+    "2050": 38.466,
+    "Country": "Uzbekistan",
+    "iso3cd": "UZB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 25.525,
+    "2050": 34.35,
+    "Country": "Vanuatu",
+    "iso3cd": "VUT",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 74.475,
+    "2050": 65.65,
+    "Country": "Vanuatu",
+    "iso3cd": "VUT",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 88.279,
+    "2050": 91.87,
+    "Country": "Venezuela, RB",
+    "iso3cd": "VEN",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 11.721,
+    "2050": 8.13,
+    "Country": "Venezuela, RB",
+    "iso3cd": "VEN",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 37.34,
+    "2050": 57.325,
+    "Country": "Viet Nam",
+    "iso3cd": "VNM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 62.66,
+    "2050": 42.675,
+    "Country": "Viet Nam",
+    "iso3cd": "VNM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 95.939,
+    "2050": 97.646,
+    "Country": "Virgin Islands (U.S.)",
+    "iso3cd": "VIR",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 4.061,
+    "2050": 2.354,
+    "Country": "Virgin Islands (U.S.)",
+    "iso3cd": "VIR",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 76.719,
+    "2050": 85.454,
+    "Country": "West Bank and Gaza",
+    "iso3cd": "PSE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 23.281,
+    "2050": 14.546,
+    "Country": "West Bank and Gaza",
+    "iso3cd": "PSE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 55.96465874,
+    "2050": 67.87628444,
+    "Country": "World",
+    "iso3cd": "WLD",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 44.03534126,
+    "2050": 32.12371556,
+    "Country": "World",
+    "iso3cd": "WLD",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 37.908,
+    "2050": 57.201,
+    "Country": "Yemen, Rep.",
+    "iso3cd": "YEM",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 62.092,
+    "2050": 42.799,
+    "Country": "Yemen, Rep.",
+    "iso3cd": "YEM",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 44.629,
+    "2050": 62.381,
+    "Country": "Zambia",
+    "iso3cd": "ZMB",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 55.371,
+    "2050": 37.619,
+    "Country": "Zambia",
+    "iso3cd": "ZMB",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": 32.242,
+    "2050": 45.947,
+    "Country": "Zimbabwe",
+    "iso3cd": "ZWE",
+    "Series Name": "Urban population (% of total population)",
+    "Series Code": "SP.URB.TOTL.IN.ZS"
+  },
+  {
+    "2020": 67.758,
+    "2050": 54.053,
+    "Country": "Zimbabwe",
+    "iso3cd": "ZWE",
+    "Series Name": "Rural population (% of total population)",
+    "Series Code": "SP.RUR.TOTL.ZS"
+  },
+  {
+    "2020": "",
+    "2050": "",
+    "Country": "",
+    "iso3cd": "",
+    "Series Name": "",
+    "Series Code": ""
+  },
+  {
+    "2020": "",
+    "2050": "",
+    "Country": "",
+    "iso3cd": "",
+    "Series Name": "",
+    "Series Code": ""
+  },
+  {
+    "2020": "",
+    "2050": "",
+    "Country": "",
+    "iso3cd": "",
+    "Series Name": "",
+    "Series Code": ""
+  },
+  {
+    "2020": "",
+    "2050": "",
+    "Country": "Data from database: Population estimates and projections",
+    "iso3cd": "",
+    "Series Name": "",
+    "Series Code": ""
+  },
+  {
+    "2020": "",
+    "2050": "",
+    "Country": "Last Updated: 12/16/2024",
+    "iso3cd": "",
+    "Series Name": "",
+    "Series Code": ""
+  }
+]
