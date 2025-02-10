@@ -1,0 +1,2074 @@
+[
+  {
+    "iso3": "ABW",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "AFE",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "AFG",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "AFR",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "AFW",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "AGO",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "ALB",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "AND",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ARB",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "ARE",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ARG",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "ARM",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "ASM",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ATG",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "AUS",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "AUT",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "AZE",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "BDI",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "BEA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "BEC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "BEL",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BEN",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "BFA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "BGD",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "BGR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BHI",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "BHR",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BHS",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BIH",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "BLA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "BLR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "BLZ",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "BMN",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "BMU",
+    "wbRegion": "North America",
+    "regioniso3": "NAC",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BOL",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "BRA",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "BRB",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BRN",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "BSS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "BTN",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "BWA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "CAA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CAF",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "CAN",
+    "wbRegion": "North America",
+    "regioniso3": "NAC",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CEA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CEB",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CEU",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CHE",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CHI",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CHL",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CHN",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "CIV",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "CLA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CME",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CMR",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "COD",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "COG",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "COL",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "COM",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "CPV",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "CRI",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "CSA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CSS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "CUB",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "CUW",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CYM",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CYP",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "CZE",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "DEA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DEC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DEU",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "DJI",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "DLA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DMA",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "DMN",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DNK",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "DNS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DOM",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "DSA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DSF",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DSS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "DZA",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "EAP",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "EAR",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "EAS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "ECA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "ECS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "ECU",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "EGY",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "EMU",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "ERI",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "ESP",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "EST",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ETH",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "EUU",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "FCS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "FIN",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "FJI",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "FRA",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "FRO",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "FSM",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "FXS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "GAB",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "GBR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "GEO",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "GHA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "GIB",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "GIN",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "GMB",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "GNB",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "GNQ",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "GRC",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "GRD",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "GRL",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "GTM",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "GUM",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "GUY",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "HIC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "HKG",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "HND",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "HPC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "HRV",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "HTI",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "HUN",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "IBB",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IBD",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IBT",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IDA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IDB",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IDN",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "IDX",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IMN",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "IND",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "INX",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "IRL",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "IRN",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "IRQ",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "ISL",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ISR",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ITA",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "JAM",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "JOR",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "JPN",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "KAZ",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "KEN",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "KGZ",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "KHM",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "KIR",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "KNA",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "KOR",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "KWT",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "LAC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LAO",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "LBN",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "LBR",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "LBY",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "LCA",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "LCN",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LDC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LIC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LIE",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "LKA",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "LMC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LMY",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LSO",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "LTE",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "LTU",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "LUX",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "LVA",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "MAC",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "MAF",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "MAR",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "MCO",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "MDA",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MDE",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "MDG",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "MDV",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MEA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "MEX",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MHL",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MIC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "MKD",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MLI",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "MLT",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "MMR",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "MNA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "MNE",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MNG",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MNP",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "MOZ",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "MRT",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "MUS",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "MWI",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "MYS",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "NAC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "NAF",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "NAM",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "NCL",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "NER",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "NGA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "NIC",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "NLD",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "NOR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "NPL",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "NRS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "NRU",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "NXS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "NZL",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "OED",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "OMN",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "OSS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "PAK",
+    "wbRegion": "South Asia",
+    "regioniso3": "SAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "PAN",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "PER",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "PHL",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "PLW",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "PNG",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "POL",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "PRE",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "PRI",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "PRK",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "PRT",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "PRY",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "PSE",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "PSS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "PST",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "PYF",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "QAT",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "ROU",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "RRS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "RUS",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "RWA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "SAS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "SAU",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SDN",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "SEN",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "SGP",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SLB",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "SLE",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "SLV",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "SMR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SOM",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "SRB",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "SSA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "SSD",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "SSF",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "SST",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "STP",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "SUR",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "SVK",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SVN",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SWE",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SWZ",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "SXM",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SXZ",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "SYC",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "SYR",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "TCA",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "TCD",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "TEA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "TEC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "TGO",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "THA",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "TJK",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "TKM",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "TLA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "TLS",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "TMN",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "TON",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "TSA",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "TSS",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "TTO",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "TUN",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "TUR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "TUV",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "TZA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "UGA",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "UKR",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "UMC",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "URY",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "USA",
+    "wbRegion": "North America",
+    "regioniso3": "NAC",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "UZB",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "VCT",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "VEN",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "INX",
+    "wbIncome": "Not classified"
+  },
+  {
+    "iso3": "VGB",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "VIR",
+    "wbRegion": "Latin America & Caribbean ",
+    "regioniso3": "LCN",
+    "incomeid": "HIC",
+    "wbIncome": "High income"
+  },
+  {
+    "iso3": "VNM",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "VUT",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "WLD",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "WSM",
+    "wbRegion": "East Asia & Pacific",
+    "regioniso3": "EAS",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "XKX",
+    "wbRegion": "Europe & Central Asia",
+    "regioniso3": "ECS",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "XZN",
+    "wbRegion": "Aggregates",
+    "regioniso3": "NA",
+    "incomeid": "NA",
+    "wbIncome": "Aggregates"
+  },
+  {
+    "iso3": "YEM",
+    "wbRegion": "Middle East & North Africa",
+    "regioniso3": "MEA",
+    "incomeid": "LIC",
+    "wbIncome": "Low income"
+  },
+  {
+    "iso3": "ZAF",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "UMC",
+    "wbIncome": "Upper middle income"
+  },
+  {
+    "iso3": "ZMB",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  },
+  {
+    "iso3": "ZWE",
+    "wbRegion": "Sub-Saharan Africa ",
+    "regioniso3": "SSF",
+    "incomeid": "LMC",
+    "wbIncome": "Lower middle income"
+  }
+]
